@@ -1,0 +1,47 @@
+{
+    "units": [
+        {
+            "unit": "Period 1: 1491-1607",
+            "summary": "Native American societie before European Contact, European exploration in the New World, Exploration in the new World",
+            "presidents": [
+                {
+                    "name": "George Washington",
+                    "year": "1789-1797"
+                }
+            ],
+            "event": [
+                {
+                    "date": "1776-07-04",
+                    "year": "1776",
+                    "title": "Declaration of Independence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the people",
+                    "significance": "2"
+                }
+            ]
+        },
+        {
+            "unit": "Period 2: 1607-1754",
+            "summary": "Colonies established in the New World by the Spanish, French, Dutch, and British",
+            "presidents": [
+                {
+                    "name": "George Washington 2.0",
+                    "year": "1789-1797"
+                }
+            ],
+            "event": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "title": "APUSH Timeline",
+        "lastUpdated": "2024-01-20",
+        "version": "1.0"
+    }
+}
