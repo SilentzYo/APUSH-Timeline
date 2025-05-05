@@ -2,33 +2,263 @@
     "units": [
         {
             "unit": "Period 1: 1491-1607",
-            "summary": "Native American societie before European Contact, European exploration in the New World, Exploration in the new World",
+            "summary": "Native American society before European Contact, European exploration in the New World, Exploration in the new World",
             "presidents": [
                 {
-                    "name": "George Washington",
-                    "year": "1789-1797"
+                    "name": "none",
+                    "year": "",
+                    "description": "",
+                    "party": ""
                 }
             ],
-            "event": [
+            "events": [
                 {
-                    "date": "1776-07-04",
-                    "year": "1776",
-                    "title": "Declaration of Independence",
-                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the people",
+                    "date": "1492-10-12",
+                    "year": "1492",
+                    "title": "Columbus' arrives in the New World",
+                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
+                    "significance": "1"
+                },
+                {
+                    "date": "1492-10-12",
+                    "year": "1492",
+                    "title": "Columbus' arrives in the New World",
+                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
+                    "significance": "2"
+                },
+                {
+                    "date": "1492-10-12",
+                    "year": "1492",
+                    "title": "Columbus' arrives in the New World",
+                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
+                    "significance": "1"
+                },
+                {
+                    "date": "1492-10-12",
+                    "year": "1492",
+                    "title": "Columbus' arrives in the New World",
+                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
                     "significance": "2"
                 }
             ]
         },
+
         {
             "unit": "Period 2: 1607-1754",
             "summary": "Colonies established in the New World by the Spanish, French, Dutch, and British",
+            "presidents": [
+                {
+                    "name": "none"
+                }
+            ],
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 3: 1754-1800",
+            "summary": "American Revolution, the events that led up to it, and the formation of the United States",
+            "presidents": [
+                {
+                    "name": "George Washington",
+                    "year": "1789-1797",
+                    "description": "First President of the United States",
+                    "party": "unaffiliated"
+                },
+                {
+                    "name": "John Adams",
+                    "year": "1797-1801",
+                    "description": "Foreign Affairs with France",
+                    "party": "Federalist"
+                }
+            ],
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                },
+                {
+                    "date": "1797-03-04",
+                    "year": "1797",
+                    "title": "1796 Presidential Election",
+                    "description": "George Washington steps down after two terms",
+                    "significance": "1"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 4: 1800-1848",
+            "summary": "Political paries and foreign policies, debates about federal power, and the cultural and economic development of early America",
+            "presidents": [
+                {
+                    "name": "Thomas Jefferson",
+                    "year": "1801-1809",
+                    "description": "Eliminated internal taxes",
+                    "party": "Democrat-Republican"
+                },
+                {
+                    "name": "James Madison",
+                    "year": "1809-1817",
+                    "description": "",
+                    "party": "Democrat-Republican"
+                },
+                {
+                    "name": "James Monroe",
+                    "year": "1817-1825",
+                    "description": "Beginning of Era of Good Feelings/Era of Common Man",
+                    "party": "Democrat-Republican"
+                },
+                {
+                    "name": "John Quincy Adams",
+                    "year": "1825-1829",
+                    "description": "Tariffs and debates on slavery",
+                    "party": "Democratic Republican"
+                },
+                {
+                    "name": "Andrew Jackson",
+                    "year": "1829-1837",
+                    "description": "Tariffs and banks",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "Martin Van Buren",
+                    "year": "1837-1841",
+                    "description": "Overspeculation of land and anti-bank",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "William Henry Harrison",
+                    "year": "1841",
+                    "description": "Beginning of Antebellum Period, died",
+                    "party": "Whig"
+                },
+                {
+                    "name": "John Tyler",
+                    "year": "1841-1845",
+                    "description": "Did some stuff",
+                    "party": "Anti-Jackson Democrat/Whig"
+                },
+                {
+                    "name": "James K. Polk",
+                    "year": "1845-1849",
+                    "description": "Admission of new states",
+                    "party": "Democrat"
+                }
+            ],
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 5: 1844-1877",
+            "summary": "Manifest Destiny, Mexican-American War, Southern Succession, and the leading to the Civil War",
+            "presidents": [
+                {
+                    "name": "James K. Polk",
+                    "year": "1845-1849",
+                    "description": "Admission of new states",
+                    "party": "Democrat"
+                }
+            ],
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 6: 1865-1898",
+            "summary": "Economic and demographic shifts of the nation, settlement in the West, the \"New South,\" reform movements, and debates about government role",
             "presidents": [
                 {
                     "name": "George Washington 2.0",
                     "year": "1789-1797"
                 }
             ],
-            "event": [
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 7: 1890-1945",
+            "summary": "America's changing society and culture, imperialism and global policy during the two wars, innovations, and combatting domestic problems",
+            "presidents": [
+                {
+                    "name": "George Washington 2.0",
+                    "year": "1789-1797"
+                }
+            ],
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 8: 1945-1980",
+            "summary": "U.S. rivalry with the Soviet Union and the expansion of communism, spread of youth culture, and civil rights movements",
+            "presidents": [
+                {
+                    "name": "George Washington 2.0",
+                    "year": "1789-1797"
+                }
+            ],
+            "events": [
+                {
+                    "date": "1776-07-05",
+                    "year": "1776",
+                    "title": "Declaration of Dependence",
+                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "significance": "2"
+                }
+            ]
+        },
+
+        {
+            "unit": "Period 9: 1980-Present",
+            "summary": "Advance of political conservatism, developments in science and technology, demographic shifts, and the early 21st century",
+            "presidents": [
+                {
+                    "name": "George Washington 2.0",
+                    "year": "1789-1797"
+                }
+            ],
+            "events": [
                 {
                     "date": "1776-07-05",
                     "year": "1776",
@@ -38,6 +268,7 @@
                 }
             ]
         }
+
     ],
     "metadata": {
         "title": "APUSH Timeline",

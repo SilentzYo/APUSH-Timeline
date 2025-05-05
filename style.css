@@ -49,6 +49,7 @@ p {
     color: #c8c8c8;
 }
 
+
 .timeline-container {
     position: relative;
     padding: 2rem 0;
@@ -58,96 +59,48 @@ p {
     position: relative;
 }
 
-.timeline::before {
-    content: '';
-    position: absolute;
-    width: 6px;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -3px;
-    border-radius: 3px;
-}
-
 .unit {
     padding: 2rem 0;
     position: relative;
 }
 
-/*
-.add-event-button {
-    padding: 10px 20px;
-    background-color: #284b63;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 15px;
+.president {
+    margin-top: 1rem;
+    padding: 0.8rem;
+    background-color: rgba(60, 110, 113, 0.2);
+    border-radius: 6px;
 }
 
-.add-event-button:hover {
-    background-color: #1f394b
-}
-
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.4);
-}
-
-.modal-content {
-    background-color: #fefefe;
-    margin: 15% auto;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
-    max-width: 500px;
-    border-radius: 8px;
-}
-
-.close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.close:hover {
-    color: black;
-}
-
-#eventForm {
+.event-list {
     display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    gap: 1.3rem;
+    align-items: flex-start;
+}
+
+.event {
+    align-self: baseline;
     flex-direction: column;
-    gap: 15px;
-    margin-top: 20px;
+    padding: 1.2rem;
+    background-color: rgba(40, 75, 99, 0.3);
+    border-radius: 8px;
+    margin-top: 1rem;
+    width: 40%;
 }
 
-#eventForm input,
-#eventForm select,
-#eventForm textarea {
-    padding: 8px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
+[data-significance="2"] {
+    border: 2px solid #ed666f
 }
-
-#eventForm button {
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+[data-significance="1"] {
+    border: 1px solid #3c6e71;
 }
-*/
+[data-significance="0"] {
+    border: 1px solid rgba(200, 200, 200, 0.3);
+}
 
 .footer{
+    margin-top: 1rem;
     text-align: center;
     font-family: 'Karla', sans-serif;
     font-size: 0.7rem;

@@ -16,28 +16,48 @@ async function loadTimeline() {
             `;
 
             unit.presidents.forEach(president => {
+                if (president.name == "none") return;
                 const presidentDiv = document.createElement('div');
                 presidentDiv.className = 'president';
                 presidentDiv.innerHTML = `
                     <h2>${president.name} (${president.year})</h2>
+                    <p>${president.description}, ${president.party}</p>
                 `;
                 unitDiv.appendChild(presidentDiv);
             });
 
-            unit.event.forEach(event => {
+            const eventListDiv = document.createElement('div');
+            eventListDiv.className = 'event-list';
+
+            unit.events.forEach(event => {
                 const eventDiv = document.createElement('div');
                 eventDiv.className = 'event';
+                eventDiv.setAttribute('data-significance', event.significance);
                 
+                let formattedDate = event.date;
+                if (event.date && event.date.includes('-')) {
+                    const dateParts = event.date.split('-');
+                    const year = dateParts[0];
+                    const month = getMonthName(parseInt(dateParts[1]));
+                    if (dateParts.length > 2 && dateParts[2]) {
+                        const day = parseInt(dateParts[2]);
+                        formattedDate = `${month} ${day}, ${year}`;
+                    } else {
+                        formattedDate = `${month}, ${year}`;
+                    }
+                }
+
                 eventDiv.innerHTML = `
                     <h3>${event.title}</h3>
-                    <p class="event-date">${event.date}</p>
+                    <p class="event-date">${formattedDate}</p>
                     <p class="event-description">${event.description}</p>
-                    <p class="event-significance">Significance: ${event.significance}</p>
                 `;
 
-                unitDiv.appendChild(eventDiv);
+                eventListDiv.appendChild(eventDiv);
             });
-            
+
+            unitDiv.appendChild(eventListDiv);
+
             timelineContainer.appendChild(unitDiv);
         });
     } catch (error) {
@@ -47,3 +67,12 @@ async function loadTimeline() {
 }
 
 document.addEventListener('DOMContentLoaded', loadTimeline);
+
+
+function getMonthName(monthNum) {
+    const months = [
+        "January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December"
+    ];
+    return months[monthNum - 1];
+}
