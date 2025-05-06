@@ -19,6 +19,13 @@ async function loadTimeline() {
             eventListDiv.className = 'event-list';
 
             let remainingEvents = [...unit.events];
+
+            if (unit.presidents.length == 0) {
+                unit.events.forEach(event => {
+                    const eventDiv = makeEvent(event);
+                    eventListDiv.appendChild(eventDiv);
+                });
+            }
              
             unit.presidents.forEach(president => {
                 const presidentDiv = document.createElement('div');
@@ -31,7 +38,7 @@ async function loadTimeline() {
 
                 const presidentChangeIndex = remainingEvents.findIndex(event => event.type === "3");
                 
-                const eventsToShow = presidentChangeIndex !== -1 ? remainingEvents.slice(0, presidentChangeIndex+1) : [];
+                const eventsToShow = presidentChangeIndex !== -1 ? remainingEvents.slice(0, presidentChangeIndex+1) : remainingEvents;
                 eventsToShow.forEach(event => {
                     const eventDiv = makeEvent(event);
                     eventListDiv.appendChild(eventDiv);

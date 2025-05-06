@@ -10,30 +10,9 @@
                 {
                     "date": "1492-10-12",
                     "year": "1492",
-                    "title": "Columbus' arrives in the New World",
+                    "title": "Columbus arrives in the New World",
                     "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
                     "type": "1"
-                },
-                {
-                    "date": "1492-10-12",
-                    "year": "1492",
-                    "title": "Columbus' arrives in the New World",
-                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "type": "2"
-                },
-                {
-                    "date": "1492-10-12",
-                    "year": "1492",
-                    "title": "Columbus' arrives in the New World",
-                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "type": "1"
-                },
-                {
-                    "date": "1492-10-12",
-                    "year": "1492",
-                    "title": "Columbus' arrives in the New World",
-                    "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "type": "2"
                 }
             ]
         },
@@ -46,11 +25,7 @@
             ],
             "events": [
                 {
-                    "date": "1776-07-05",
-                    "year": "1776",
-                    "title": "Declaration of Dependence",
-                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "type": "2"
+                    
                 }
             ]
         },
@@ -74,11 +49,53 @@
             ],
             "events": [
                 {
-                    "date": "1776-07-05",
+                    "date": "1776-07-04",
                     "year": "1776",
-                    "title": "Declaration of Dependence",
+                    "title": "Declaration of Independence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
                     "type": "2"
+                },
+                {
+                    "date": "1789",
+                    "year": "1789",
+                    "title": "Judiciary Act of 1789",
+                    "description": "Established courts below the Supreme Court",
+                    "type": "1"
+                },
+                {
+                    "date": "1789",
+                    "year": "1789-1799",
+                    "title": "French Revolution",
+                    "description": "Social and political upheaval in France that allowed the U.S. to expand its territory",
+                    "type": "1"
+                },
+                {
+                    "date": "1791",
+                    "year": "1791",
+                    "title": "Bill of Rights is ratified",
+                    "description": "First ten amendments to the Constitution: (1) Freedom of speech, press, religion, assembly, and petition; (2) Right to bear arms; (3) No quartering of soldiers; (4) No unreasonable search and seizure; (5) Due process of law; (6) Right to a speedy trial; (7) Right to a jury trial in civil cases; (8) No cruel and unusual punishment; (9) Rights not enumerated in the Constitution are still protected; (10) Powers not given to the federal government are reserved for the states",
+                    "type": "2"
+                },
+                {
+                    "date": "1791",
+                    "year": "1791",
+                    "title": "Federal Bank is established",
+                    "description": "Federal Bank proposed by Alexander Hamilton to stabilize the economy and establish credit",
+                    "type": "1"
+                },
+                {
+                    "date": "1794",
+                    "year": "1794",
+                    "title": "Whiskey Rebellion",
+                    "description": "Farmers in Pennsylvania rebelled against tax on whiskey; Washington sent troops to put down rebellion, expressing power of the government",
+                    "type": "1"
+                },
+                {
+                    "date": "1794",
+                    "year": "1794",
+                    "title": "Jay Treaty",
+                    "description": "Settle disputes between U.S. and Britain over trade and territory",
+                    "type": "1"
                 },
                 {
                     "date": "1797-03-04",
@@ -86,6 +103,13 @@
                     "title": "1796 Presidential Election",
                     "description": "George Washington steps down after two terms",
                     "type": "3"
+                },
+                {
+                    "date": "1797-03-04",
+                    "year": "1797",
+                    "title": "1796 Presidential Election",
+                    "description": "George Washington steps down after two terms",
+                    "type": "2"
                 }
             ]
         },
