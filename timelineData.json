@@ -4,12 +4,7 @@
             "unit": "Period 1: 1491-1607",
             "summary": "Native American society before European Contact, European exploration in the New World, Exploration in the new World",
             "presidents": [
-                {
-                    "name": "none",
-                    "year": "",
-                    "description": "",
-                    "party": ""
-                }
+        
             ],
             "events": [
                 {
@@ -17,28 +12,28 @@
                     "year": "1492",
                     "title": "Columbus' arrives in the New World",
                     "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "significance": "1"
+                    "type": "1"
                 },
                 {
                     "date": "1492-10-12",
                     "year": "1492",
                     "title": "Columbus' arrives in the New World",
                     "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "significance": "2"
+                    "type": "2"
                 },
                 {
                     "date": "1492-10-12",
                     "year": "1492",
                     "title": "Columbus' arrives in the New World",
                     "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "significance": "1"
+                    "type": "1"
                 },
                 {
                     "date": "1492-10-12",
                     "year": "1492",
                     "title": "Columbus' arrives in the New World",
                     "description": "Sparks flow of trade between old and new world. Stimulates food production and growth. Spain becomes colonial power in the Americas",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
@@ -47,9 +42,7 @@
             "unit": "Period 2: 1607-1754",
             "summary": "Colonies established in the New World by the Spanish, French, Dutch, and British",
             "presidents": [
-                {
-                    "name": "none"
-                }
+                
             ],
             "events": [
                 {
@@ -57,7 +50,7 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
@@ -85,21 +78,21 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 },
                 {
                     "date": "1797-03-04",
                     "year": "1797",
                     "title": "1796 Presidential Election",
                     "description": "George Washington steps down after two terms",
-                    "significance": "1"
+                    "type": "3"
                 }
             ]
         },
 
         {
             "unit": "Period 4: 1800-1848",
-            "summary": "Political paries and foreign policies, debates about federal power, and the cultural and economic development of early America",
+            "summary": "Political parties and foreign policies, debates about federal power, and the cultural and economic development of early America",
             "presidents": [
                 {
                     "name": "Thomas Jefferson",
@@ -162,20 +155,62 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
 
         {
             "unit": "Period 5: 1844-1877",
-            "summary": "Manifest Destiny, Mexican-American War, Southern Succession, and the leading to the Civil War",
+            "summary": "Manifest Destiny, Mexican-American War, Southern Sucession, and the leading to the Civil War",
             "presidents": [
                 {
                     "name": "James K. Polk",
                     "year": "1845-1849",
                     "description": "Admission of new states",
                     "party": "Democrat"
+                },
+                {
+                    "name": "Zachary Taylor",
+                    "year": "1849-1850",
+                    "description": "Died in office",
+                    "party": "Whig"
+                },
+                {
+                    "name": "Millard Fillmore",
+                    "year": "1850-1853",
+                    "description": "Truce over battle of slavery",
+                    "party": "Whig"
+                },
+                {
+                    "name": "Franklin Pierce",
+                    "year": "1853-1857",
+                    "description": "",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "James Buchanan",
+                    "year": "1857-1861",
+                    "description": "Beginning of Southern Sucession and Civil War",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "Abraham Lincoln",
+                    "year": "1861-1865",
+                    "description": "Led Union through the Civil War",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Andrew Johnson",
+                    "year": "1865-1869",
+                    "description": "Reconstruction after the Civil War",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Ulysses S. Grant",
+                    "year": "1869-1877",
+                    "description": "War general turned president",
+                    "party": "Republican"
                 }
             ],
             "events": [
@@ -184,7 +219,7 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
@@ -194,8 +229,40 @@
             "summary": "Economic and demographic shifts of the nation, settlement in the West, the \"New South,\" reform movements, and debates about government role",
             "presidents": [
                 {
-                    "name": "George Washington 2.0",
-                    "year": "1789-1797"
+                    "name": "Andrew Johnson",
+                    "year": "1865-1869",
+                    "description": "Led through black rights movements and KKK",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Ulysses S. Grant",
+                    "year": "1869-1877",
+                    "description": "Made successful foreign policy and improved Anglo-American relations",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Rutherford B. Hayes",
+                    "year": "1877-1881",
+                    "description": "Brought forth the Gilded Age",
+                    "party": "Republican"
+                },
+                {
+                    "name": "James A. Garfield",
+                    "year": "1881",
+                    "description": "Assassinated",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Chester A. Arthur",
+                    "year": "1881-1885",
+                    "description": "Expansion of the U.S. Navy, end of the spoils system, and harsher immigration restrictions",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Grover Cleveland",
+                    "year": "1885-1889",
+                    "description": "Period of unrest with labor unions",
+                    "party": "Democrat"
                 }
             ],
             "events": [
@@ -204,7 +271,7 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
@@ -214,8 +281,70 @@
             "summary": "America's changing society and culture, imperialism and global policy during the two wars, innovations, and combatting domestic problems",
             "presidents": [
                 {
-                    "name": "George Washington 2.0",
-                    "year": "1789-1797"
+                    "name": "Benjamin Harrison",
+                    "year": "1889-1893",
+                    "description": "Played into foreign affairs and westward expansion",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Grover Cleveland",
+                    "year": "1893-1897",
+                    "description": "First non-consecutive president, dealt with more labor unions",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "William McKinley",
+                    "year": "1897-1901",
+                    "description": "Imperialistic policies with overseas and domestic intentions",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Theodore Roosevelt",
+                    "year": "1901-1909",
+                    "description": "Imperialism in the Americas and Latin America",
+                    "party": "Republican"
+                },
+                {
+                    "name": "William H. Taft",
+                    "year": "1909-1913",
+                    "description": "Income tax and tariffs",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Woodrow Wilson",
+                    "year": "1913-1921",
+                    "description": "Led the United States through minimal foreign intervention of World War I",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "Warren G. Harding",
+                    "year": "1921-1923",
+                    "description": "Return to normalcy after World War I",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Calvin Coolidge",
+                    "year": "1923-1929",
+                    "description": "Anti-immigration",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Herbert Hoover",
+                    "year": "1929-1933",
+                    "description": "Attempting to bring the U.S. through the Great Depression",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Franklin D. Roosevelt",
+                    "year": "1933-1945",
+                    "description": "Brought the Era of Reform through the New Deal and guided the U.S. through World War II",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "Harry S. Truman",
+                    "year": "1945-1953",
+                    "description": "Ended World War II",
+                    "party": "Democrat"
                 }
             ],
             "events": [
@@ -224,7 +353,7 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
@@ -234,8 +363,22 @@
             "summary": "U.S. rivalry with the Soviet Union and the expansion of communism, spread of youth culture, and civil rights movements",
             "presidents": [
                 {
-                    "name": "George Washington 2.0",
-                    "year": "1789-1797"
+                    "name": "Harry S. Truman",
+                    "year": "1945-1953",
+                    "description": "Post World War II foreign policy and combatting spread of communism",
+                    "party": "Democrat"
+                },
+                {
+                    "name": "Dwight D. Eisenhower",
+                    "year": "1953-1961",
+                    "description": "Cold War policies",
+                    "party": "Republican"
+                },
+                {
+                    "name": "John F. Kennedy",
+                    "year": "1961-1963",
+                    "description": "",
+                    "party": "Democrat"
                 }
             ],
             "events": [
@@ -244,7 +387,7 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         },
@@ -264,7 +407,7 @@
                     "year": "1776",
                     "title": "Declaration of Dependence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "significance": "2"
+                    "type": "2"
                 }
             ]
         }

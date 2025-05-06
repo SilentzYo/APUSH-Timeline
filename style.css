@@ -64,19 +64,20 @@ p {
     position: relative;
 }
 
-.president {
-    margin-top: 1rem;
-    padding: 0.8rem;
-    background-color: rgba(60, 110, 113, 0.2);
-    border-radius: 6px;
-}
-
 .event-list {
     display: flex;
     flex-wrap: wrap;
     position: relative;
     gap: 1.3rem;
     align-items: flex-start;
+}
+
+.president {
+    margin-top: 1rem;
+    padding: 0.8rem;
+    background-color: rgba(60, 110, 113, 0.2);
+    border-radius: 6px;
+    width: 80%;
 }
 
 .event {
@@ -86,16 +87,23 @@ p {
     background-color: rgba(40, 75, 99, 0.3);
     border-radius: 8px;
     margin-top: 1rem;
-    width: 40%;
+    width: 30%;
 }
 
-[data-significance="2"] {
-    border: 2px solid #ed666f
-}
-[data-significance="1"] {
+/* PRESIDENT CHANGE */
+[data-type="3"] {
     border: 1px solid #3c6e71;
 }
-[data-significance="0"] {
+/* MAJOR EVENTS */
+[data-type="2"] {
+    border: 2px solid #ed666f;
+}
+/* MINOR EVENTS */
+[data-type="1"] {
+    border: 1px solid #3c6e71;
+}
+/* SIDE EVENTS */
+[data-type="0"] {
     border: 1px solid rgba(200, 200, 200, 0.3);
 }
 
