@@ -18,6 +18,8 @@ async function loadTimeline() {
             const eventListDiv = document.createElement('div');
             eventListDiv.className = 'event-list';
 
+            let remainingEvents = [...unit.events];
+             
             unit.presidents.forEach(president => {
                 const presidentDiv = document.createElement('div');
                 presidentDiv.className = 'president';
@@ -27,34 +29,15 @@ async function loadTimeline() {
                 `;
                 eventListDiv.appendChild(presidentDiv);
 
-                unit.events
-                    .filter(event => event.type === "3")
-                    .forEach(event => {
-                        const eventDiv = document.createElement('div');
-                        eventDiv.className = 'event';
-                        eventDiv.setAttribute('data-type', event.type);
+                const presidentChangeIndex = remainingEvents.findIndex(event => event.type === "3");
+                
+                const eventsToShow = presidentChangeIndex !== -1 ? remainingEvents.slice(0, presidentChangeIndex+1) : [];
+                eventsToShow.forEach(event => {
+                    const eventDiv = makeEvent(event);
+                    eventListDiv.appendChild(eventDiv);
+                });
 
-                        let formattedDate = event.date;
-                        if (event.date && event.date.includes('-')) {
-                            const dateParts = event.date.split('-');
-                            const year = dateParts[0];
-                            const month = getMonthName(parseInt(dateParts[1]));
-                            if (dateParts.length > 2 && dateParts[2]) {
-                                const day = parseInt(dateParts[2]);
-                                formattedDate = `${month} ${day}, ${year}`;
-                            } else {
-                                formattedDate = `${month}, ${year}`;
-                            }
-                        }
-
-                        eventDiv.innerHTML = `
-                            <h3>${event.title}</h3>
-                            <p class="event-date">${formattedDate}</p>
-                            <p class="event-description">${event.description}</p>
-                        `;
-
-                        eventListDiv.appendChild(eventDiv);
-                    });
+                remainingEvents = remainingEvents.slice(presidentChangeIndex !== -1 ? presidentChangeIndex + 1 : 0);
             });
 
             unitDiv.appendChild(eventListDiv);
@@ -69,6 +52,39 @@ async function loadTimeline() {
 
 document.addEventListener('DOMContentLoaded', loadTimeline);
 
+function makeEvent(event) {
+    const eventDiv = document.createElement('div');
+    eventDiv.className = 'event';
+    eventDiv.setAttribute('data-type', event.type);
+
+    let formattedDate = getDate(event.date);
+
+    eventDiv.innerHTML = `
+        <h3>${event.title}</h3>
+        <p class="event-date">${formattedDate}</p>
+        <p class="event-description">${event.description}</p>
+    `;
+
+    return eventDiv;
+}
+
+
+function getDate(eventDate) {
+    let formattedDate = eventDate;
+    if (eventDate && eventDate.includes('-')) {
+        const dateParts = eventDate.split('-');
+        const year = dateParts[0];
+        const month = getMonthName(parseInt(dateParts[1]));
+
+        if (dateParts.length > 2 && dateParts[2]) {
+            const day = parseInt(dateParts[2]);
+            formattedDate = `${month} ${day}, ${year}`;
+        } else {
+            formattedDate = `${month}, ${year}`;
+        }
+    }
+    return formattedDate;
+}
 
 function getMonthName(monthNum) {
     const months = [
