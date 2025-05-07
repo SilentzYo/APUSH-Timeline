@@ -49,6 +49,19 @@ p {
     color: #c8c8c8;
 }
 
+.hyperlinks {
+    display: flex;
+    gap: 10px;
+}
+
+.hyperlinks > a {
+    flex: 1;
+    background-color: grey;
+    border-radius: 5px;
+    text-align: center;
+    padding: 4px;
+    color: white;
+}
 
 .timeline-container {
     position: relative;
@@ -92,15 +105,16 @@ p {
 
 /* PRESIDENT CHANGE */
 [data-type="3"] {
-    border: 1px solid #3c6e71;
+    border: 3px solid #1a6817;
 }
 /* MAJOR EVENTS */
 [data-type="2"] {
-    border: 2px solid #ed666f;
+    border: 3px solid #ed666f;
+    width: 30%;
 }
 /* MINOR EVENTS */
 [data-type="1"] {
-    border: 1px solid #3c6e71;
+    border: 2px solid #3c6e71;
 }
 /* SIDE EVENTS */
 [data-type="0"] {

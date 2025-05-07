@@ -9,6 +9,7 @@ async function loadTimeline() {
         data.units.forEach(unit => {
             const unitDiv = document.createElement('div');
             unitDiv.className = 'unit';
+            unitDiv.id = unit.number;
 
             unitDiv.innerHTML = `
                 <h1>${unit.unit}</h1>

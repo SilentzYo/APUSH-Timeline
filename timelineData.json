@@ -2,6 +2,7 @@
     "units": [
         {
             "unit": "Period 1: 1491-1607",
+            "number": "1",
             "summary": "Native American society before European Contact, European exploration in the New World, Exploration in the new World",
             "presidents": [
         
@@ -19,6 +20,7 @@
 
         {
             "unit": "Period 2: 1607-1754",
+            "number": "2",
             "summary": "Colonies established in the New World by the Spanish, French, Dutch, and British",
             "presidents": [
                 
@@ -32,6 +34,7 @@
 
         {
             "unit": "Period 3: 1754-1800",
+            "number": "3",
             "summary": "American Revolution, the events that led up to it, and the formation of the United States",
             "presidents": [
                 {
@@ -48,6 +51,20 @@
                 }
             ],
             "events": [
+                {
+                    "date": "1756/1763",
+                    "year": "1756",
+                    "title": "Seven Years' War/French and Indian War",
+                    "description": "global conflict between France and Great Britain",
+                    "type": "2"
+                },
+                {
+                    "date": "",
+                    "year": "",
+                    "title": "",
+                    "description": "",
+                    "type": ""
+                },
                 {
                     "date": "1776-07-04",
                     "year": "1776",
@@ -73,49 +90,99 @@
                     "date": "1791",
                     "year": "1791",
                     "title": "Bill of Rights is ratified",
-                    "description": "First ten amendments to the Constitution: (1) Freedom of speech, press, religion, assembly, and petition; (2) Right to bear arms; (3) No quartering of soldiers; (4) No unreasonable search and seizure; (5) Due process of law; (6) Right to a speedy trial; (7) Right to a jury trial in civil cases; (8) No cruel and unusual punishment; (9) Rights not enumerated in the Constitution are still protected; (10) Powers not given to the federal government are reserved for the states",
+                    "description": "First ten amendments to the Constitution: (1) <b>Freedom of speech, press, religion, assembly, and petition</b>; (2) Right to bear arms; (3) No quartering of soldiers; (4) No unreasonable search and seizure; (5) Due process of law; (6) Right to a speedy trial; (7) Right to a jury trial in civil cases; (8) No cruel and unusual punishment; (9) Rights not enumerated in the Constitution are still protected; (10) <b>Powers not given to the federal government are reserved for the states</b>",
                     "type": "2"
                 },
                 {
                     "date": "1791",
                     "year": "1791",
-                    "title": "Federal Bank is established",
+                    "title": "First Bank of the United States is established",
                     "description": "Federal Bank proposed by Alexander Hamilton to stabilize the economy and establish credit",
+                    "type": "1"
+                },
+                {
+                    "date": "1791",
+                    "year": "1791",
+                    "title": "Hamilton (Fed) vs Jefferson (Dem-Rep)",
+                    "description": "Hamilton pushed for national debt, interest of rich, home manufacturing, strong executive, weak state government, and alliance with Britain; \n Jefferson pushed for government run by people, strong state governments, and was against a standing army",
                     "type": "1"
                 },
                 {
                     "date": "1794",
                     "year": "1794",
                     "title": "Whiskey Rebellion",
-                    "description": "Farmers in Pennsylvania rebelled against tax on whiskey; Washington sent troops to put down rebellion, expressing power of the government",
+                    "description": "Farmers in Pennsylvania rebelled against excise tax on whiskey; Washington sent troops to put down rebellion, expressing power of the government",
                     "type": "1"
                 },
                 {
                     "date": "1794",
                     "year": "1794",
                     "title": "Jay Treaty",
-                    "description": "Settle disputes between U.S. and Britain over trade and territory",
+                    "description": "Settle disputes between U.S. and Britain over trade and territory; U.S. will not trade with ports opened during war time that were closed during peace time, British will leave forts (not really) and allow U.S. trade in Asia",
                     "type": "1"
                 },
                 {
-                    "date": "1797-03-04",
-                    "year": "1797",
-                    "title": "1796 Presidential Election",
+                    "date": "1796",
+                    "year": "1796",
+                    "title": "Washington's Farewell Address",
+                    "description": "Advised for strong central government, foreign neutrality, and warns against factions",
+                    "type": "1"
+                },
+                {
+                    "date": "1796",
+                    "year": "1796",
+                    "title": "John Adams elected, Jefferson as VP",
                     "description": "George Washington steps down after two terms",
                     "type": "3"
                 },
                 {
-                    "date": "1797-03-04",
-                    "year": "1797",
-                    "title": "1796 Presidential Election",
-                    "description": "George Washington steps down after two terms",
+                    "date": "1796",
+                    "year": "1796",
+                    "title": "XYZ Affair",
+                    "description": "France attacks American Ships and makes unreasonable demands—no money, no war",
+                    "type": "1"
+                },
+                {
+                    "date": "1798",
+                    "year": "1798",
+                    "title": "Alien and Sedition Acts",
+                    "description": "illegal to publish anything against government or president",
                     "type": "2"
+                },
+                {
+                    "date": "1798",
+                    "year": "1798",
+                    "title": "Virginia and Kentucky Resolutions",
+                    "description": "gave states the right to nullify if deemed unconstitutional (ie. Alien and Sedition Acts)",
+                    "type": "2"
+                },
+                {
+                    "date": "1799",
+                    "year": "1799",
+                    "title": "Fries Uprising",
+                    "description": "opposed federal tax on property but was put down",
+                    "type": "0"
+                },
+                {
+                    "date": "1799",
+                    "year": "1799",
+                    "title": "Logan Act",
+                    "description": "George Logan attempts to negotiate with France, but deemed that a citizen cannot represent the government",
+                    "type": "0"
+                },
+                {
+                    "date": "1800",
+                    "year": "1800",
+                    "title": "Convention of 1800",
+                    "description": "Hamilton negotiated with France, ended alliance with France during revolution, but extended \"most-favored\" trading status",
+                    "type": "1"
                 }
             ]
         },
 
         {
             "unit": "Period 4: 1800-1848",
+            "number": "4",
             "summary": "Political parties and foreign policies, debates about federal power, and the cultural and economic development of early America",
             "presidents": [
                 {
@@ -175,17 +242,452 @@
             ],
             "events": [
                 {
-                    "date": "1776-07-05",
-                    "year": "1776",
-                    "title": "Declaration of Dependence",
-                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "date": "1800",
+                    "year": "1800",
+                    "title": "Jefferson elected",
+                    "description": "government changes from Federalist to Democratic-Republican",
                     "type": "2"
+                },
+                {
+                    "date": "1803",
+                    "year": "1803",
+                    "title": "Louisiana Purchase",
+                    "description": "Purchased most of middle from France while France was in revolution; Federalists opposed, established loose construction of the Constitution",
+                    "type": "2"
+                },
+                {
+                    "date": "1803",
+                    "year": "1803",
+                    "title": "<i>Marbury v. Madison</i>",
+                    "description": "Supreme Court declares parts of Judiciary Act of 1789 unconstitutional; Supreme Court could declare laws unconstitutional; powers of Court only given in Constitution",
+                    "type": "2"
+                },
+                {
+                    "date": "1804",
+                    "year": "1804",
+                    "title": "New Jersey ends slavery",
+                    "description": "leads to gradual emancipation of Northern states",
+                    "type": "1"
+                },
+                {
+                    "date": "1804/1806",
+                    "year": "1804",
+                    "title": "Lewis and Clark Expedition",
+                    "description": "Explored new territory after Louisiana Purchase; mapped uncharted land, brought details of Native Americans, and documented over 300 new species of animals and plants",
+                    "type": "1"
+                },
+                {
+                    "date": "1805",
+                    "year": "1805",
+                    "title": "Tripoli War ends",
+                    "description": "War between US and North African state of Tripoli; US refused to pay in 1801 which led to US ships being captured",
+                    "type": "1"
+                },
+                {
+                    "date": "1807",
+                    "year": "1807",
+                    "title": "First Steamboat",
+                    "description": "Robert Fulton builds first steamboat, reducing travel time significantly, stimulating economy through transportation of goods, and contributed to expansion westward",
+                    "type": "0"
+                },
+                {
+                    "date": "1807",
+                    "year": "1807",
+                    "title": "Chesapeake Affair",
+                    "description": "US Ship Leopard sunk by British for refusal to be searched; provoked wave of nationalism and anti-British sentiment",
+                    "type": "0"
+                },
+                {
+                    "date": "1807",
+                    "year": "1807",
+                    "title": "Embargo Act",
+                    "description": "stopped trade exports to all foreign nations, put measures against impressment, placed import restrictions on Great Britain; led to economic hardship and made many resort to smuggling goods",
+                    "type": "1"
+                },
+                {
+                    "date": "1808-01-01",
+                    "year": "1808",
+                    "title": "African Slave Trade ends",
+                    "description": "transatlantic slave-trade abolished in the United States, however slaving continued to be legal",
+                    "type": "1"
+                },
+                {
+                    "date": "1808",
+                    "year": "1808",
+                    "title": "Madison elected",
+                    "description": "Madison had previously served as Secretary of States",
+                    "type": "3"
+                },
+                {
+                    "date": "1809",
+                    "year": "1809",
+                    "title": "Nonintercourse Act",
+                    "description": "resumes all trade barred during Embargo Act except with France and Britain",
+                    "type": "1"
+                },
+                {
+                    "date": "1810",
+                    "year": "1810",
+                    "title": "<i>Fletcher v. Pack</i>",
+                    "description": "action of a state can be declared unconstitutional",
+                    "type": "0"
+                },
+                {
+                    "date": "1811",
+                    "year": "1811",
+                    "title": "Charter for Bank of U.S. rejected",
+                    "description": "main debate between pro-bank Federalists and anti-centralized power Democratic-Republicans; many believed it favored elites",
+                    "type": "1"
+                },
+                {
+                    "date": "1811-11-07",
+                    "year": "1811",
+                    "title": "Battle of Tippecanoe",
+                    "description": "battle between Indian Tecumseh, helped by the British, and Americans led by Harrison; destroyed hope for large Indian Confederacy",
+                    "type": "1"
+                },
+                {
+                    "date": "1811",
+                    "year": "1811",
+                    "title": "War Hawks",
+                    "description": "members of congress who pushed for war against Britain leading up to the War of 1812",
+                    "type": "1"
+                },
+                {
+                    "date": "1812/1814",
+                    "year": "1812",
+                    "title": "The War of 1812",
+                    "description": "fought between U.S. and Great Britain; affirmed American independence from British influence, surge in nationalism; Federalists opposed the war, leading to decline in Federalist Party post-war",
+                    "type": "2"
+                },
+                {
+                    "date": "1814-12-24",
+                    "year": "1814",
+                    "title": "Treaty of Ghent",
+                    "description": "ended War of 1812; addressed territory of both parties, did not address trade restrictions and impressment of American sailors; paved way for Era of Good Feelings",
+                    "type": "1"
+                },
+                {
+                    "date": "1814",
+                    "year": "1814",
+                    "title": "Hartford Convention",
+                    "description": "Federalists were against War of 1812 and mercantile practice of Madison; secretly debated and rejected secession; drafted amendments strengthening state over commerce and militia",
+                    "type": "2"
+                },
+                {
+                    "date": "1816",
+                    "year": "1816",
+                    "title": "Second Bank of the United States created",
+                    "description": "created to stabilize economy after War of 1812 by regulating currency and managing federal funds",
+                    "type": "1"
+                },
+                {
+                    "date": "1816",
+                    "year": "1816",
+                    "title": "First Protective Tariff",
+                    "description": "to protect New England manufactures from cheap British manufactured goods",
+                    "type": "1"
+                },
+                {
+                    "date": "1816",
+                    "year": "1816",
+                    "title": "American Colonization Society founded",
+                    "description": "formed over debate of slavery and abolitionism; wanted relocate free blacks to Liberia, although many blacks at the time were born in the United States",
+                    "type": "1"
+                },
+                {
+                    "date": "1816",
+                    "year": "1816",
+                    "title": "Henry Clay's American System",
+                    "description": "to strengthen national economy through national bank, protective tariffs, and internal improvements, such as roads and canals",
+                    "type": "2"
+                },
+                {
+                    "date": "1816",
+                    "year": "1816",
+                    "title": "Monroe elected",
+                    "description": "marked start of Era of Good Feelings",
+                    "type": "3"
+                },
+                {
+                    "date": "1815/1825",
+                    "year": "1815",
+                    "title": "Era of Good Feelings",
+                    "description": "decline of partisan conflicts; aimed to promote national unity and cooperation, economic growth, and territorial expansion; significant regional tensions between North and South over slavery",
+                    "type": "2"
+                },
+                {
+                    "date": "1817",
+                    "year": "1817",
+                    "title": "Veto of Bonus Bill",
+                    "description": "supplying funds for roads and canals to states; vetoed by Madison, as he believed states should pay for their own improvements",
+                    "type": "1"
+                },
+                {
+                    "date": "1817",
+                    "year": "1817",
+                    "title": "Rush-Bagot Disarmament",
+                    "description": "fishing rights between U.S. and Britain; aimed to limit naval armaments on the Great Lakes and Lake Champlain to de-escalate tensions between the two nations",
+                    "type": "0"
+                },
+                {
+                    "date": "1818",
+                    "year": "1818",
+                    "title": "Convention of 1818",
+                    "description": "set boundary between the Missouri Territory and British North America at the forty-ninth parallel; marked beginning of Anglo-American cooperation",
+                    "type": "1"
+                },
+                {
+                    "date": "1819",
+                    "year": "1819",
+                    "title": "Transcontinental Treaty/Adams-Onis Treaty",
+                    "description": "U.S. acquired Florida from Spain for 5 million, put boundary to Spanish territories, later Texas, New Mexico, and California",
+                    "type": "1"
+                },
+                {
+                    "date": "1819",
+                    "year": "1819",
+                    "title": "Panic of 1819",
+                    "description": "first major financial crisis of the U.S.; widespread economic downturn and bank failures, which led to scrutiny of banking practices and reform of banking system; rise of populism and changing attitudes of government intervention into economy",
+                    "type": "2"
+                },
+                {
+                    "date": "1819",
+                    "year": "1819",
+                    "title": "<i>McCulloch v Maryland</i>",
+                    "description": "federal government had the right to set up a federal bank and the states did not have the power to tax the government",
+                    "type": "2"
+                },
+                {
+                    "date": "1819",
+                    "year": "1819",
+                    "title": "<i>Dartmouth College v Woodward</i>",
+                    "description": "Dartmouth charter as private could not be changed to public by the New Hampshire legislature; established principle of protecting private corporations from state interference",
+                    "type": "1"
+                },
+                {
+                    "date": "1820",
+                    "year": "1820",
+                    "title": "Missouri Compromise",
+                    "description": "admitted Maine as a free state and Missouri as a slave state but no slavery north of Missouri Land Act",
+                    "type": "2"
+                },
+                {
+                    "date": "1822",
+                    "year": "1822",
+                    "title": "Cumberland Road Bill",
+                    "description": "Cumberland Road, or the National Road, was the first federally funded highway; helped in the Market Revolution and facilitated westward expansion; made precedent for federal involvement in infrastructure and future transportation projects",
+                    "type": "1"
+                },
+                {
+                    "date": "1823",
+                    "year": "1823",
+                    "title": "Monroe Doctrine",
+                    "description": "foreign policy statement that warned European nations against colonization and intervention in the Americas and established the WEster Hemisphere as the sphere of American influence; set commitment to protecting Latin American nations; established U.S. as a growing global power",
+                    "type": "2"
+                },
+                {
+                    "date": "1824",
+                    "year": "1824",
+                    "title": "Russo-American Treaty",
+                    "description": "outlined boundaries between U.S. and Russian Alaska",
+                    "type": "0"
+                },
+                {
+                    "date": "1824",
+                    "year": "1824",
+                    "title": "John Q. Adams elected",
+                    "description": "defeats Andrew Jackson and Clay; Andrew Jackson received most popular and electoral votes; House elected John Quincy Adams after allegedly striking a deal with Henry Clay who had received the least of the four candidates, sparking accusations of a 'Corrupt Bargain'",
+                    "type": "3"
+                },
+                {
+                    "date": "1824",
+                    "year": "1824",
+                    "title": "<i>Gibbons v. Ogden</i>",
+                    "description": "concluded that interstate trade would be controlled by federal courts",
+                    "type": "1"
+                },
+                {
+                    "date": "1825-10-26",
+                    "year": "1825",
+                    "title": "Erie Canal opens",
+                    "description": "first transportation route connecting the Atlantic Ocean and the Great Lakes that did not require over land transportation",
+                    "type": "1"
+                },
+                {
+                    "date": "1826",
+                    "year": "1826",
+                    "title": "Panama Conference (PAN American)",
+                    "description": "established Pan-American Union that dealt with issues concerning Monroe Doctrine",
+                    "type": "1"
+                },
+                {
+                    "date": "1828",
+                    "year": "1828",
+                    "title": "Tariff of Abominations",
+                    "description": "significant tariffs on imported goods and raw materials; greatly opposed by Southern economy",
+                    "type": "2"
+                },
+                {
+                    "date": "1828",
+                    "year": "1828",
+                    "title": "South Carolina Exposition and Protest",
+                    "description": "Calhoun protests for and reaffirms the rights of states to nullify",
+                    "type": "1"
+                },
+                {
+                    "date": "1828",
+                    "year": "1828",
+                    "title": "Andrew Jackson elected",
+                    "description": "Jackson promises to limit executive power, provide internal improvements, and lower debt; appoints 'Kitchen Cabinet' of trusted friends",
+                    "type": "3"
+                },
+                {
+                    "date": "1829",
+                    "year": "1829",
+                    "title": "Maysville Road Bill Veto",
+                    "description": "proposed building a road in Kentucky, but vetoed as Jackson didn't like Clay and Martin Van Buren noted New York and Pennsylvania paid for their transportation with state money; applied strict interpretation of the Constitution",
+                    "type": "0"
+                },
+                {
+                    "date": "1829",
+                    "year": "1829",
+                    "title": "Webster-Hayne Debates",
+                    "description": "Webster (nationalist) and Hayne (states rights) debated on the topic nullification",
+                    "type": "1"
+                },
+                {
+                    "date": "1830s",
+                    "year": "1830",
+                    "title": "The Second Great Awakening",
+                    "description": "religious revival movement in the early 19th century; included renewed interest in Christianity, increase in church membership, and formation of various new religious denominations; brought early feminism and other reform movements",
+                    "type": "2"
+                },
+                {
+                    "date": "1830",
+                    "year": "1830",
+                    "title": "Baltimore and Ohio Railroad begins operation",
+                    "description": "first common carrier railroad in the U.S. to provide transportation between the East Coast and the Ohio River",
+                    "type": "0"
+                },
+                {
+                    "date": "1831",
+                    "year": "1831",
+                    "title": "The Liberator begins publication",
+                    "description": "abolitionist movement becomes more widespread; served as important part of Boston's Underground Railroad network and reported on fugitive slave cases; the South were highly against, due to their reliance on slaves for economy",
+                    "type": "1"
+                },
+                {
+                    "date": "1831-08",
+                    "year": "1831",
+                    "title": "Nat Turner Rebellion",
+                    "description": "bloody slave rebellion in Virginia that led to killings of nearly 60 white people; caused black churches to be broken up, Anti-literacy laws to increase, and put harsher restrictions on slaves and blacks",
+                    "type": "2"
+                },
+                {
+                    "date": "1831",
+                    "year": "1831",
+                    "title": "Cyrus McCormick invents the reaper",
+                    "description": "made cutting crops for harvest much more efficient",
+                    "type": "0"
+                },
+                {
+                    "date": "1831/1838",
+                    "year": "1831",
+                    "title": "The Trial of Tears",
+                    "description": "about 60,000 Southern Indians forcefully removed from Oklahoma and sent to designated Indian Territory west of the Mississippi, causing death of many Indians due to disease and starvation",
+                    "type": "2"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Tariff of 1832",
+                    "description": "to act as a remedy for Tariff of 1828; reduced duties but retained high taxes on imported irons, cottons, and woolens; led to the nullification crisis",
+                    "type": "1"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Force Bill",
+                    "description": "allowed the president to use force as necessary to enforce tariffs",
+                    "type": "1"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Ordinance of Nullification",
+                    "description": "South Carolina refused to accept the tariff as the believed it would set a precedent for congressional legislation for slavery; made it unlawful for federal officials to collect duties in state",
+                    "type": "1"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Veto of Bank of U.S. recharter",
+                    "description": "Jackson vetos recharter just before reelection of 1832, stating it was unconstitutional despite being considered constitutional by the court, placed Federal funds in banks that supported Jackson and state banks",
+                    "type": "2"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Department of Indian affairs established",
+                    "description": "",
+                    "type": "0"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Seminole War with Indians begins",
+                    "description": "",
+                    "type": "0"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "<i>Cherokee Nation v. Georgia</i>",
+                    "description": "",
+                    "type": "0"
+                },
+                {
+                    "date": "1832",
+                    "year": "1832",
+                    "title": "Agreement with Britain to open West Indies ports",
+                    "description": "",
+                    "type": "0"
+                },
+                {
+                    "date": "1835/1836",
+                    "year": "1835",
+                    "title": "Texas War of Independence",
+                    "description": "rebellion by Texas settlers against Mexican rule, leading to establishment of Republic of Texas; 'Lone Star Republic'",
+                    "type": "1"
+                },
+                {
+                    "date": "1936",
+                    "year": "1936",
+                    "title": "The Gag Rule",
+                    "description": "prohibited debate or action on anti-slavery petitions; reflected increasing tensions around slavery",
+                    "type": "0"
+                },
+                {
+                    "date": "1836",
+                    "year": "1836",
+                    "title": "Specie Circular",
+                    "description": "required that western land must be paid with hard currency; caused failure of banks as banks did not have that much hard currency",
+                    "type": "2"
+                },
+                {
+                    "date": "1836",
+                    "year": "1836",
+                    "title": "Van Buren elected",
+                    "description": "successor to Jackson, Martin Van Buren beats Harrison (Whigs) but is 'puppet' of Jackson",
+                    "type": "3"
                 }
             ]
         },
 
         {
             "unit": "Period 5: 1844-1877",
+            "number": "5",
             "summary": "Manifest Destiny, Mexican-American War, Southern Succession, and the leading to the Civil War",
             "presidents": [
                 {
@@ -250,6 +752,7 @@
 
         {
             "unit": "Period 6: 1865-1898",
+            "number": "6",
             "summary": "Economic and demographic shifts of the nation, settlement in the West, the \"New South,\" reform movements, and debates about government role",
             "presidents": [
                 {
@@ -302,6 +805,7 @@
 
         {
             "unit": "Period 7: 1890-1945",
+            "number": "7",
             "summary": "America's changing society and culture, imperialism and global policy during the two wars, innovations, and combatting domestic problems",
             "presidents": [
                 {
@@ -384,6 +888,7 @@
 
         {
             "unit": "Period 8: 1945-1980",
+            "number": "8",
             "summary": "U.S. rivalry with the Soviet Union and the expansion of communism, spread of youth culture, and civil rights movements",
             "presidents": [
                 {
@@ -418,6 +923,7 @@
 
         {
             "unit": "Period 9: 1980-Present",
+            "number": "9",
             "summary": "Advance of political conservatism, developments in science and technology, demographic shifts, and the early 21st century",
             "presidents": [
                 {
