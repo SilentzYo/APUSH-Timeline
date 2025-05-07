@@ -483,7 +483,7 @@
                     "date": "1823",
                     "year": "1823",
                     "title": "Monroe Doctrine",
-                    "description": "foreign policy statement that warned European nations against colonization and intervention in the Americas and established the WEster Hemisphere as the sphere of American influence; set commitment to protecting Latin American nations; established U.S. as a growing global power",
+                    "description": "foreign policy statement that warned European nations against colonization and intervention in the Americas and established the Western Hemisphere as the sphere of American influence; set commitment to protecting Latin American nations; established U.S. as a growing global power",
                     "type": "2"
                 },
                 {
@@ -681,6 +681,118 @@
                     "title": "Van Buren elected",
                     "description": "successor to Jackson, Martin Van Buren beats Harrison (Whigs) but is 'puppet' of Jackson",
                     "type": "3"
+                },
+                {
+                    "date": "1837",
+                    "year": "1837",
+                    "title": "Recognition of Republic of Texas",
+                    "description": "one year after Texas declares independence from Mexico",
+                    "type": "1"
+                },
+                {
+                    "date": "1837",
+                    "year": "1837",
+                    "title": "Oberlin College enrolls first women students",
+                    "description": "early steps of feminism movement",
+                    "type": "0"
+                },
+                {
+                    "date": "1837",
+                    "year": "1837",
+                    "title": "<i>Charles Bridge v. Warren Bridge",
+                    "description": "strict interpretation of contract; reversed Dartmouth College v. Woodward",
+                    "type": "0"
+                },
+                {
+                    "date": "1837",
+                    "year": "1837",
+                    "title": "Panic of 1837",
+                    "description": "financial crisis caused by rapid economic growth, speculation of land, and concerns of banks",
+                    "type": "2"
+                },
+                {
+                    "date": "1838/1839",
+                    "year": "1838",
+                    "title": "Aroostook War",
+                    "description": "bloodless boundary disputes between Maine and New Brunswick",
+                    "type": "0"
+                },
+                {
+                    "date": "1840",
+                    "year": "1840",
+                    "title": "Independent Treasury Systems",
+                    "description": "constructs vaults to hold federal money rather than have commercial banks manage funds as response to economic instability",
+                    "type": "0"
+                },
+                {
+                    "date": "1840",
+                    "year": "1840",
+                    "title": "Harrison elected",
+                    "description": "Harrison defeats Van Buren",
+                    "type": "3"
+                },
+                {
+                    "date": "1840",
+                    "year": "1840",
+                    "title": "Tyler becomes president",
+                    "description": "Harrison catches pneumonia and dies",
+                    "type": "3"
+                },
+                {
+                    "date": "1841",
+                    "year": "1841",
+                    "title": "Independent Treasury Act repealed",
+                    "description": "Whigs did not like federal banks and wanted more economic controll to people",
+                    "type": "0"
+                },
+                {
+                    "date": "1841",
+                    "year": "1841",
+                    "title": "Recharter of Bank of the U.S. vetoed",
+                    "description": "Tyler vetoes recharter to charter a new National Bank to replace",
+                    "type": "1"
+                },
+                {
+                    "date": "1841",
+                    "year": "1841",
+                    "title": "Preemption Bill",
+                    "description": "to protect rights of 'squatters,' settlers who occupied public lands before they were surveyed and sold by the government, to allow claiming land before it was surveyed",
+                    "type": "1"
+                },
+                {
+                    "date": "1842",
+                    "year": "1842",
+                    "title": "Tariff Bill of 1842/Black Tariff",
+                    "description": "raised tariffs back to how it was in 1832, reversing Compromise Tariff of 1833 to protect American industries from foreign competition",
+                    "type": "1"
+                },
+                {
+                    "date": "1842",
+                    "year": "1842",
+                    "title": "Dorr Rebellion",
+                    "description": "rebellion in Rhode Island against land qualifications needed for voting; put down by Tyler",
+                    "type": "0"
+                },
+                {
+                    "date": "1842",
+                    "year": "1842",
+                    "title": "Webster-Ashburton Treaty",
+                    "description": "resolved border disputes between British North America and the United States; also addressed African slave trade and extradition",
+                    "type": "2"
+                },
+                {
+                    "date": "1843",
+                    "year": "1843",
+                    "title": "Oregon Trail",
+                    "description": "route used to reach Oregon Territory and other westward areas",
+                    "type": "1"
+                },
+                {
+                    "date": "1845",
+                    "year": "1845",
+                    "title": "Texas Annexation Bill",
+                    "description": "allowed annexation of Texas and Florida, leading to annexation of Texas later in the year",
+                    "type": "2"
                 }
             ]
         },
@@ -741,11 +853,102 @@
             ],
             "events": [
                 {
-                    "date": "1776-07-05",
-                    "year": "1776",
-                    "title": "Declaration of Dependence",
-                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "date": "1844",
+                    "year": "1844",
+                    "title": "Polk elected",
+                    "description": "Polk (Dem) defeats Clay (Whig) and Birney (Liberty; Anti-slavery)",
                     "type": "2"
+                },
+                {
+                    "date": "1846",
+                    "year": "1846",
+                    "title": "Elias Howe invents sewing machine",
+                    "description": "revolutionized clothing industry and boosted Northern industrialization during the Industrial Revolution",
+                    "type": "1"
+                },
+                {
+                    "date": "1846/1848",
+                    "year": "1846",
+                    "title": "Mexican-American War",
+                    "description": "stemming from the annexation of Texas, the war represents growing expansionism and forced American's to discuss the issue of slavery",
+                    "type": "2"
+                },
+                {
+                    "date": "1845",
+                    "year": "1845",
+                    "title": "Slidell Mission",
+                    "description": "to negotiate purchase of California and New Mexico; arrival marked with hostility",
+                    "type": "0"
+                },
+                {
+                    "date": "1846",
+                    "year": "1846",
+                    "title": "Wilmot Proviso",
+                    "description": "proposed to ban slavery in any territory aquired from Mexican-American War; never made a law but contributed to the rise of the Free Soil Party and the Republican Party who were against slavery",
+                    "type": "2"
+                },
+                {
+                    "date": "1846",
+                    "year": "1846",
+                    "title": "Fifty-four Forty or Fight",
+                    "description": "a popular slogan used during the Oregon Question; American's wanted the land about 54 degrees and 40 minutes north parallel or would fight Great Britain for the land",
+                    "type": "2"
+                },
+                {
+                    "date": "1846",
+                    "year": "1846",
+                    "title": "Reestablishment of the Independent Treasury System",
+                    "description": "to seperate federal government's funds from private banks and manage them through the Treasury instead",
+                    "type": "1"
+                },
+                {
+                    "date": "1846",
+                    "year": "1846",
+                    "title": "Walker Tariff Act",
+                    "description": "lowered import duties in the U.S., aiming to reduce since Black Tariff; led to increase in trade and government revenue",
+                    "type": "1"
+                },
+                {
+                    "date": "1847",
+                    "year": "1847",
+                    "title": "Polk Doctrine",
+                    "description": "resurrection of the Monroe Doctrine concering the admission of new states into the union",
+                    "type": "0"
+                },
+                {
+                    "date": "1847",
+                    "year": "1847",
+                    "title": "Obtained Oregon",
+                    "description": "for years, Oregon Territory had been joint owned by the U.S. and Britain; major part of Manifest Destiny ideology",
+                    "type": "1"
+                },
+                {
+                    "date": "1848",
+                    "year": "1848",
+                    "title": "Trist Mission",
+                    "description": "negotiates Treaty of Guadelupe Hidalgo to get territory of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming",
+                    "type": "1"
+                },
+                {
+                    "date": "1848",
+                    "year": "1848",
+                    "title": "Gold Rush in California",
+                    "description": "Gold discovered in Sutter's Mill, California led many to migrate to California in hopes of striking it rich; led to rapid westward migration and political and economic changes",
+                    "type": "2"
+                },
+                {
+                    "date": "1848-07",
+                    "year": "1848",
+                    "title": "Seneca Falls Women's Rights Convention",
+                    "description": "first women's rights convention aiming for women suffrage",
+                    "type": "2"
+                },
+                {
+                    "date": "1848",
+                    "year": "1848",
+                    "title": "Taylor elected",
+                    "description": "Taylor (Whig) defeats Cass (Dem; father of popular sovereinty, ",
+                    "type": ""
                 }
             ]
         },
