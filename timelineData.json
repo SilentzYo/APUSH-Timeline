@@ -1434,9 +1434,203 @@
                     "year": "1885-1889",
                     "description": "Period of unrest with labor unions",
                     "party": "Democrat"
+                },
+                {
+                    "name": "Benjamin Harrison",
+                    "year": "1889-1893",
+                    "description": "Played into foreign affairs and westward expansion",
+                    "party": "Republican"
+                },
+                {
+                    "name": "Grover Cleveland",
+                    "year": "1893-1897",
+                    "description": "First non-consecutive president, dealt with more labor unions",
+                    "party": "Democrat"
                 }
             ],
             "events": [
+                {
+                    "date": "1869",
+                    "year": "1869",
+                    "title": "Grant elected",
+                    "description": "Grant defeats Seymore (Dem)",
+                    "type": "2"
+                },
+                {
+                    "date": "1869",
+                    "year": "1869",
+                    "title": "Transcontinental Railroad Completed from Union Pacific and Central Pacific",
+                    "description": "allowed easier transportation from west to east and helped with further westward expansion and settlement",
+                    "type": "2"
+                },
+                {
+                    "date": "1869",
+                    "year": "1869",
+                    "title": "Knights of Labor",
+                    "description": "one of the most prominent labor unions but ended quickly; included all people of different work levels",
+                    "type": "2"
+                },
+                {
+                    "date": "1870",
+                    "year": "1870",
+                    "title": "Fifteenth Amendment",
+                    "description": "rights to vote cannot be determined by race or color; allowed black men to vote, but did not give women vote yet",
+                    "type": "2"
+                },
+                {
+                    "date": "1870",
+                    "year": "1870",
+                    "title": "Force Acts",
+                    "description": "to protect the constitutional rights guaranteed to blacks by the fourteenth and fifteenth amendments",
+                    "type": "2"
+                },
+                {
+                    "date": "1870",
+                    "year": "1870",
+                    "title": "Standard Oil Company",
+                    "description": "Standard Oil Company was a trust founded by John D. Rockefeller; used vertical integration, where all aspects from production to distribution were controlled by the company",
+                    "type": "1"
+                },
+                {
+                    "date": "1872",
+                    "year": "1872",
+                    "title": "Credit Mobiler Scandal",
+                    "description": "stock holders of railroad construction copmany overcharge the government for a job",
+                    "type": "0"
+                },
+                {
+                    "date": "1872",
+                    "year": "1872",
+                    "title": "Grant reelected",
+                    "description": "Grant gets reelected against Greely (Dem)",
+                    "type": "2"
+                },
+                {
+                    "date": "1873",
+                    "year": "1873",
+                    "title": "<i>Slaughterhouse Cases</i>",
+                    "description": "represent Court's first major interpretation of the Fourteenth Amendment; Fourteenth Amendment did not concern monopolies, thus giving it a narrower interpretation",
+                    "type": "1"
+                },
+                {
+                    "date": "1874",
+                    "year": "1874",
+                    "title": "Red River Wars",
+                    "description": "last attempt of natives to resist reservations",
+                    "type": "0"
+                },
+                {
+                    "date": "1874",
+                    "year": "1874",
+                    "title": "Farmers Alliance",
+                    "description": "in the South against the high fees of the railroads; resulted in Granger laws to regulate fees",
+                    "type": "1"
+                },
+                {
+                    "date": "1875",
+                    "year": "1875",
+                    "title": "Civil Rights Act",
+                    "description": "gave blacks equal rights; amied to guarantee equal access to public accommodations; was not very successful as it was not enforced as much",
+                    "type": "1"
+                },
+                {
+                    "date": "1875",
+                    "year": "1875",
+                    "title": "Pearl Harbor acquired",
+                    "description": "after discussion with Hawaii natives",
+                    "type": "0"
+                },
+                {
+                    "date": "1876",
+                    "year": "1876",
+                    "title": "Battle of Little Bighorn",
+                    "description": "a battle in the Great Sioux War of 1876; resulted in a Native American win with Cluster and forces killed",
+                    "type": "0"
+                },
+                {
+                    "date": "1876",
+                    "year": "1876",
+                    "title": "<i>U.S. v. Reese</i>",
+                    "description": "over voting qualifications to prevent black sufferage and whether Congress should enforce the Fifteenth Amendment; allowed South to impliment discriminatory acts such as literacy tests, poll tax, and the grandfather clause",
+                    "type": "2"
+                },
+                {
+                    "date": "1876",
+                    "year": "1876",
+                    "title": "Alexander Graham Bell invents the telephone",
+                    "description": "allowed for easier long distance communication, helping facilitate railroad businesses and westward expansion",
+                    "type": "1"
+                },
+                {
+                    "date": "1876",
+                    "year": "1876",
+                    "title": "Hayes elected",
+                    "description": "Hayes defeats Tilden (Dem)",
+                    "type": "3"
+                },
+                {
+                    "date": "1877",
+                    "year": "1877",
+                    "title": "<i>Munn v. Illinois</i>",
+                    "description": "over state regulation of prices; if it is in the interest of public good, then states can regulate prices to a reasonable extent",
+                    "type": "1"
+                },
+                {
+                    "date": "1870s",
+                    "year": "1870",
+                    "title": "Robber Barons",
+                    "description": "Tipple: believed it threatened traditional beliefs and destroyed competition; Chandler: that entrepreneurs were hard working and innovative; Arnold: that anti-trust acts preserved competition; McGraw: that regulation was inefficient",
+                    "type": "4"
+                },
+                {
+                    "date": "1877",
+                    "year": "1877",
+                    "title": "Compromise of 1877",
+                    "description": "informal agreement between Southern Democrats and allies of Hayes; marked the end of the Reconstruction era",
+                    "type": "2"
+                },
+                {
+                    "date": "1878",
+                    "year": "1878",
+                    "title": "<i>Hall v. Decuir</i>",
+                    "description": "states cannot regulate segregation on common carriers for interstate commerce; struck down Louisiana law requiring full racial integration of passengers; limited the scopes of Civil Rights Act of 1875",
+                    "type": "1"
+                },
+                {
+                    "date": "1878",
+                    "year": "1878",
+                    "title": "Bland-Allison Act",
+                    "description": "coined a limited number of silver; aimed to combat economic downturns; exemplified rift between farmers who struggled with debt and deflation and industrialists who favored a gold standard",
+                    "type": "1"
+                },
+                {
+                    "date": "1878",
+                    "year": "1878",
+                    "title": "Treaty of 1878",
+                    "description": "treaty of friendship and commerce with Samoa and gave naval station at Pago Pago; represented growing imperialism",
+                    "type": "0"
+                },
+                {
+                    "date": "1879",
+                    "year": "1879",
+                    "title": "Thomas Edison invents the electric light",
+                    "description": "shift towards electricty from common gas usage; allowed longer work hours in industry",
+                    "type": "1"
+                },
+                {
+                    "date": "1879",
+                    "year": "1879",
+                    "title": "Knights of Labor go public",
+                    "description": "no strike stand; both skilled and unskilled labor made it generally unsuccessful",
+                    "type": "1"
+                },
+                {
+                    "date": "1880s",
+                    "year": "1880",
+                    "title": "Dust Bowl begins",
+                    "description": "sever dust storms in the Great Plains due to drought, over-farming, and high winds; caused many to migrate to west to California; exemplified later in John Steinbeck's Grapes of Wrath",
+                    "type": "4"
+                },
                 {
                     "date": "1880",
                     "year": "1880",
@@ -1452,10 +1646,150 @@
                     "type": "3"
                 },
                 {
-                    "date": "",
-                    "year": "",
-                    "title": "",
-                    "description": "",
+                    "date": "1881",
+                    "year": "1881",
+                    "title": "Tuskegee Institute",
+                    "description": "industrial school led by Booker T. Washington to train young black students and improve their economic status",
+                    "type": "0"
+                },
+                {
+                    "date": "1881",
+                    "year": "1881",
+                    "title": "<i>A Century of Dishonor</i>",
+                    "description": "Helen Hunt Jackson wrote about Native American view and settlers disregards of Native American rights and cultures; contributed to policy reforms over Native American tribes",
+                    "type": "0"
+                },
+                {
+                    "date": "1882",
+                    "year": "1882",
+                    "title": "Chinese Exclusion Act",
+                    "description": "the first major U.S. law to restrict immigration bsed on race and nationality; prohibited the immigration Chinese laborers and denied naturalization of Chinese residents; fueled by economic competition and racial prejudice",
+                    "type": "2"
+                },
+                {
+                    "date": "1882",
+                    "year": "1882",
+                    "title": "European Restriction Act",
+                    "description": "imposed head tax on non-citizens and restricted certain people from entering the country, mainly those unable to care for themselvecs or with criminal background",
+                    "type": "2"
+                },
+                {
+                    "date": "1883",
+                    "year": "1883",
+                    "title": "Brooklyn Bridge",
+                    "description": "connected Manhattan and Broklyn to be the longest suspension bridge in the world; represented American technology and commercial advancement",
+                    "type": "0"
+                },
+                {
+                    "date": "1883",
+                    "year": "1883",
+                    "title": "Civil Rights Cases",
+                    "description": "series of five cases that struck down the Civil Rights Act of 1875 and allowed individual discrimination; was accompanied by more Jim Crow laws",
+                    "type": "2"
+                },
+                {
+                    "date": "1884",
+                    "year": "1884",
+                    "title": "Cleveland elected",
+                    "description": "Cleveland defeates Blaine (Rep)",
+                    "type": "3"
+                },
+                {
+                    "date": "1886",
+                    "year": "1886",
+                    "title": "The American Federation of Labor",
+                    "description": "composed of only skilled labor and dealt with labor using strikes; was more effective as skilled labor could not be easily replaced",
+                    "type": "2"
+                },
+                {
+                    "date": "1886",
+                    "year": "1886",
+                    "title": "Interstate Commerce Act",
+                    "description": "regulated railroads' and private businesses' monopolistic practice, prohibiting rebates and preferences for localities; established Interstate Commerce Commission",
+                    "type": "2"
+                },
+                {
+                    "date": "1886",
+                    "year": "1886",
+                    "title": "Haymarket Incident",
+                    "description": "peaceful protest turned violent; changed public perception of labor unions, effectively ending the Knights of Labor",
+                    "type": "1"
+                },
+                {
+                    "date": "1887",
+                    "year": "1887",
+                    "title": "Interstate Commerce Commission",
+                    "description": "oversaw railroads to ensure just and reasonable rates",
+                    "type": "1"
+                },
+                {
+                    "date": "1887",
+                    "year": "1887",
+                    "title": "Dawes Severalty Act",
+                    "description": "aimed to divide Native American reservations into individual land allotments and assimilate Native Americans into U.S. society, encouraging them to become independent farming and landowners; failed",
+                    "type": "2"
+                },
+                {
+                    "date": "1888",
+                    "year": "1888",
+                    "title": "Harrison elected",
+                    "description": "defeated Cleveland (Dem)",
+                    "type": "3"
+                },
+                {
+                    "date": "1889",
+                    "year": "1889",
+                    "title": "Jane Addams and Hull House",
+                    "description": "settlement house that aimed to help urban poor by providing services and advocating for social reform",
+                    "type": "0"
+                },
+                {
+                    "date": "1889",
+                    "year": "1889",
+                    "title": "Berlin Conference",
+                    "description": "U.S., Britain, and Germany agree on a joint protection of Samoa but does not work well",
+                    "type": "0"
+                },
+                {
+                    "date": "1889",
+                    "year": "1889",
+                    "title": "First Pan American Conference",
+                    "description": "to foster cooperation among American nations and established trade relations",
+                    "type": "1"
+                },
+                {
+                    "date": "1889",
+                    "year": "1889",
+                    "title": "Bering Sea Controversy",
+                    "description": "between U.S. and Britain (Canada) over seal hunting; led to capturing of Canadian vessels and led to arbitration",
+                    "type": "1"
+                },
+                {
+                    "date": "1890",
+                    "year": "1890",
+                    "title": "North American Women's Suffrage Association",
+                    "description": "fought for women suffrage; formed through merging two existing sufferage groups; helped secure the Ninteenth Amendment",
+                    "type": "1"
+                },
+                {
+                    "date": "1890",
+                    "year": "1890",
+                    "title": "Sherman Antitrust Act",
+                    "description": "trust in restraint of trade are illegal; to prevent monopolies and promote competitions",
+                    "type": "2"
+                },
+                {
+                    "date": "1890s/1900s",
+                    "year": "1890",
+                    "title": "Blacks deprived of suffrage in the South",
+                    "description": "against previous acts that allowed black rights",
+                    "type": "1"
+                },
+                {
+                    "date": "1890",
+                    "year": "1890",
+                    "title": "Wounded Knee Massacre",
+                    "description": "ended Indian Wars, shot and killed nearly 300 Lakota people ",
                     "type": ""
                 }
             ]
