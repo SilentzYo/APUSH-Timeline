@@ -1390,13 +1390,6 @@
                     "title": "Thirteenth Amendment",
                     "description": "formally abolishes slavery in its entirety, even in the North",
                     "type": "2"
-                },
-                {
-                    "date": "1865",
-                    "year": "1865",
-                    "title": "",
-                    "description": "",
-                    "type": ""
                 }
             ]
         },
@@ -1445,11 +1438,25 @@
             ],
             "events": [
                 {
-                    "date": "1776-07-05",
-                    "year": "1776",
-                    "title": "Declaration of Dependence",
-                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
-                    "type": "2"
+                    "date": "1880",
+                    "year": "1880",
+                    "title": "Garfield elected",
+                    "description": "defeats Hancock (Dem)",
+                    "type": "1"
+                },
+                {
+                    "date": "1881",
+                    "year": "1881",
+                    "title": "Arthur becomes president",
+                    "description": "Garfield dies, VP Chester Arthur becomes president",
+                    "type": "3"
+                },
+                {
+                    "date": "",
+                    "year": "",
+                    "title": "",
+                    "description": "",
+                    "type": ""
                 }
             ]
         },
