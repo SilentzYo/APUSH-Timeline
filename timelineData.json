@@ -55,15 +55,78 @@
                     "date": "1756/1763",
                     "year": "1756",
                     "title": "Seven Years' War/French and Indian War",
-                    "description": "global conflict between France and Great Britain",
+                    "description": "global conflict between France and Great Britain; caused Britain to go double debt and increase taxes on colonists",
                     "type": "2"
                 },
                 {
-                    "date": "",
-                    "year": "",
-                    "title": "",
+                    "date": "1763",
+                    "year": "1763",
+                    "title": "Taxation without Representation",
+                    "description": "Colonial people didn't want the taxation without representation; British claims virtual representation that they represented everyone",
+                    "type": "2"
+                },
+                {
+                    "date": "1764",
+                    "year": "1764",
+                    "title": "Sugar Act",
+                    "description": "first British law to tax sugar and molasses imported into American colonies",
+                    "type": "1"
+                },
+                {
+                    "date": "1764",
+                    "year": "1764",
+                    "title": "Currency Act",
+                    "description": "prohibited American colonies from issuing their own currency",
+                    "type": "1"
+                },
+                {
+                    "date": "1765",
+                    "year": "1765",
+                    "title": "Quartering Act",
+                    "description": "British law that required American colonies to provide housing and provisions to British soldiers",
+                    "type": "1"
+                },
+                {
+                    "date": "1765",
+                    "year": "1765",
+                    "title": "Stamp Act",
+                    "description": "after colonists got rid of Sugar Act, parliament taxed all papers; repealed in 1766 as many commended the colonists for resisting a tax passed when not represented",
+                    "type": "1"
+                },
+                {
+                    "date": "1766",
+                    "year": "1766",
+                    "title": "Declaratory Act",
+                    "description": "repeal of the Stamp Act made Parliament pass an act on the same day that stated Parliament could make laws binding the American colonies 'in all cases whatsoever'",
+                    "type": "1"
+                },
+                {
+                    "date": "1767",
+                    "year": "1767",
+                    "title": "Townshend Acts",
                     "description": "",
                     "type": ""
+                },
+                {
+                    "date": "1773",
+                    "year": "1773",
+                    "title": "Boston Tea Party",
+                    "description": "American political and mercantile protest against tax on tea and 'taxation without representation'",
+                    "type": "1"
+                },
+                {
+                    "date": "1773",
+                    "year": "1773",
+                    "title": "Coercive Acts",
+                    "description": "",
+                    "type": "1"
+                },
+                {
+                    "date": "1776",
+                    "year": "1776",
+                    "title": "Thomas Paine's <i>Common Sense</i>",
+                    "description": "pamphlet written by Thomas Paine advocating for independence from Great Britain in the colonies; based heavily on enlightenment ideals",
+                    "type": "2"
                 },
                 {
                     "date": "1776-07-04",
@@ -71,6 +134,41 @@
                     "title": "Declaration of Independence",
                     "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
                     "type": "2"
+                },
+                {
+                    "date": "1775/1783",
+                    "year": "1775",
+                    "title": "American Revolutionary War",
+                    "description": "despite Britain's military and financial advantages, the American Patriots won the Revolutionary War and gained independence",
+                    "type": "2"
+                },
+                {
+                    "date": "1781",
+                    "year": "1781",
+                    "title": "Articles of Confederation",
+                    "description": "the first constitution of the United States of America, failed due to weak federal government; all government power in legislative, but weak, as many wanted weak government contrasting from strong British power",
+                    "type": "2"
+                },
+                {
+                    "date": "1786",
+                    "year": "1786",
+                    "title": "Shays' Rebellion",
+                    "description": "rebellion over debt; displayed weakness of government and inability to have army for domestic and international purposes",
+                    "type": "2"
+                },
+                {
+                    "date": "1787",
+                    "year": "1787",
+                    "title": "Constitutional Convention",
+                    "description": "to help rectify the weakness of the Articles of Confederation; the Great Compromise (Connecticut Compromise): Bicameral legislation; 3/5s Compromise: 3/5s of slave population counted towards population",
+                    "type": "2"
+                },
+                {
+                    "date": "1789",
+                    "year": "1789",
+                    "title": "Federalism",
+                    "description": "sharing of power between state and government;",
+                    "type": "4"
                 },
                 {
                     "date": "1789",
@@ -94,24 +192,31 @@
                     "type": "2"
                 },
                 {
+                    "date": "1790s",
+                    "year": "1790",
+                    "title": "Republican Motherhood",
+                    "description": "idea that women had vital role in shaping nation by raising virtuous citizens",
+                    "type": "0"
+                },
+                {
                     "date": "1791",
                     "year": "1791",
                     "title": "First Bank of the United States is established",
-                    "description": "Federal Bank proposed by Alexander Hamilton to stabilize the economy and establish credit",
+                    "description": "Federal Bank proposed by Alexander Hamilton to stabilize the economy and establish credit; to have all the states debts to one national debt, viewed as a control of power by opponents; helped by Elastic Clause in the Constitution",
                     "type": "1"
                 },
                 {
                     "date": "1791",
                     "year": "1791",
                     "title": "Hamilton (Fed) vs Jefferson (Dem-Rep)",
-                    "description": "Hamilton pushed for national debt, interest of rich, home manufacturing, strong executive, weak state government, and alliance with Britain; \n Jefferson pushed for government run by people, strong state governments, and was against a standing army",
+                    "description": "Hamilton pushed for national debt, interest of rich, home manufacturing, strong executive, weak state government, and alliance with Britain; Jefferson pushed for government run by people, strong state governments, and was against a standing army",
                     "type": "1"
                 },
                 {
                     "date": "1794",
                     "year": "1794",
                     "title": "Whiskey Rebellion",
-                    "description": "Farmers in Pennsylvania rebelled against excise tax on whiskey; Washington sent troops to put down rebellion, expressing power of the government",
+                    "description": "Farmers in Pennsylvania rebelled against excise tax on whiskey; Washington sent troops to put down rebellion, expressing power of the new government; mainly supported by Federalists",
                     "type": "1"
                 },
                 {
@@ -188,13 +293,13 @@
                 {
                     "name": "Thomas Jefferson",
                     "year": "1801-1809",
-                    "description": "Eliminated internal taxes",
+                    "description": "argument between political parties, Supreme Court establishes its role, and U.S. expands territorial holdings",
                     "party": "Democrat-Republican"
                 },
                 {
                     "name": "James Madison",
                     "year": "1809-1817",
-                    "description": "",
+                    "description": "led the nation during the War of 1812 and held commitment to civil liberties",
                     "party": "Democrat-Republican"
                 },
                 {
@@ -247,6 +352,13 @@
                     "title": "Jefferson elected",
                     "description": "government changes from Federalist to Democratic-Republican",
                     "type": "2"
+                },
+                {
+                    "date": "1800s",
+                    "year": "1800",
+                    "title": "Strict interpretation of the Constitution",
+                    "description": "Federalists supported loose interpretation of the Constitution; Democratic-Republicans supported strict interpretation of the Constitution to limit federal authority",
+                    "type": "4"
                 },
                 {
                     "date": "1803",
@@ -399,7 +511,7 @@
                     "date": "1816",
                     "year": "1816",
                     "title": "Henry Clay's American System",
-                    "description": "to strengthen national economy through national bank, protective tariffs, and internal improvements, such as roads and canals",
+                    "description": "to unify American by strengthen national economy through national bank, protective tariffs, and internal improvements, such as roads and canals",
                     "type": "2"
                 },
                 {
@@ -559,6 +671,13 @@
                 {
                     "date": "1830s",
                     "year": "1830",
+                    "title": "Transcendentalism",
+                    "description": "emphasized individual intuition, inherent goodness of people, and a deeper connection to nature; promoted self-reliance and questioned social norms",
+                    "type": "4"
+                },
+                {
+                    "date": "1830s",
+                    "year": "1830",
                     "title": "The Second Great Awakening",
                     "description": "religious revival movement in the early 19th century; included renewed interest in Christianity, increase in church membership, and formation of various new religious denominations; brought early feminism and other reform movements",
                     "type": "2"
@@ -608,15 +727,15 @@
                 {
                     "date": "1832",
                     "year": "1832",
-                    "title": "Force Bill",
-                    "description": "allowed the president to use force as necessary to enforce tariffs",
+                    "title": "Ordinance of Nullification",
+                    "description": "South Carolina refused to accept the tariff as the believed it would set a precedent for congressional legislation for slavery; made it unlawful for federal officials to collect duties in state",
                     "type": "1"
                 },
                 {
                     "date": "1832",
                     "year": "1832",
-                    "title": "Ordinance of Nullification",
-                    "description": "South Carolina refused to accept the tariff as the believed it would set a precedent for congressional legislation for slavery; made it unlawful for federal officials to collect duties in state",
+                    "title": "Force Bill",
+                    "description": "made in response to the Southern nullification and allowed the president to use force as necessary to enforce tariffs",
                     "type": "1"
                 },
                 {
@@ -742,7 +861,7 @@
                     "date": "1841",
                     "year": "1841",
                     "title": "Independent Treasury Act repealed",
-                    "description": "Whigs did not like federal banks and wanted more economic controll to people",
+                    "description": "Whigs did not like federal banks and wanted more economic control to people",
                     "type": "0"
                 },
                 {
@@ -884,7 +1003,7 @@
                     "date": "1846",
                     "year": "1846",
                     "title": "Wilmot Proviso",
-                    "description": "proposed to ban slavery in any territory aquired from Mexican-American War; never made a law but contributed to the rise of the Free Soil Party and the Republican Party who were against slavery",
+                    "description": "proposed to ban slavery in any territory acquired from Mexican-American War; never made a law but contributed to the rise of the Free Soil Party and the Republican Party who were against slavery",
                     "type": "2"
                 },
                 {
@@ -898,7 +1017,7 @@
                     "date": "1846",
                     "year": "1846",
                     "title": "Reestablishment of the Independent Treasury System",
-                    "description": "to seperate federal government's funds from private banks and manage them through the Treasury instead",
+                    "description": "to separate federal government's funds from private banks and manage them through the Treasury instead",
                     "type": "1"
                 },
                 {
@@ -912,7 +1031,7 @@
                     "date": "1847",
                     "year": "1847",
                     "title": "Polk Doctrine",
-                    "description": "resurrection of the Monroe Doctrine concering the admission of new states into the union",
+                    "description": "resurrection of the Monroe Doctrine concerning the admission of new states into the union",
                     "type": "0"
                 },
                 {
@@ -947,7 +1066,336 @@
                     "date": "1848",
                     "year": "1848",
                     "title": "Taylor elected",
-                    "description": "Taylor (Whig) defeats Cass (Dem; father of popular sovereinty, ",
+                    "description": "Taylor (Whig) defeats Cass (Dem; father of popular sovereignty) and Van Buren (Free-Soil; abolitionist)",
+                    "type": "3"
+                },
+                {
+                    "date": "1850",
+                    "year": "1850",
+                    "title": "Fillmore becomes president",
+                    "description": "Taylor dies",
+                    "type": "3"
+                },
+                {
+                    "date": "1850",
+                    "year": "1850",
+                    "title": "Clay's Compromise of 1850",
+                    "description": "crafted by three influential statesmen, Henry Clay, Daniel Webster, and Stephen Douglas; passed as five separate bills: California as a free state, strong Fugitive Slave Act, End to slave trade in Washington D.C., Texas/New Mexico boundary settled, popular sovereignty in Utah and New Mexico territories",
+                    "type": "2"
+                },
+                {
+                    "date": "1850",
+                    "year": "1850",
+                    "title": "Clayton-Bulwer Treaty",
+                    "description": "U.S. amd Britain agree to jointly protect the neutrality of a canal in Central America",
+                    "type": "0"
+                },
+                {
+                    "date": "1852",
+                    "year": "1852",
+                    "title": "Japan opens to US trade",
+                    "description": "Commodore Matthew Perry reaches Japan and demands opening of trade to the US",
+                    "type": "0"
+                },
+                {
+                    "date": "1852",
+                    "year": "1852",
+                    "title": "Pierce elected",
+                    "description": "Pierce defeats Scott (Whig)",
+                    "type": "3"
+                },
+                {
+                    "date": "1853",
+                    "year": "1853",
+                    "title": "Gadsden Purchase",
+                    "description": "purchase land from Mexico to build transcontinental railroad and exhibited America's Manifest Destiny",
+                    "type": "1"
+                },
+                {
+                    "date": "1852",
+                    "year": "1852",
+                    "title": "'Uncle Tom's Cabin'",
+                    "description": "anti-slavery novel written by Harriet Beecher Stowe; helped shape Northern perceptions of African American slavery",
+                    "type": "2"
+                },
+                {
+                    "date": "1854",
+                    "year": "1854",
+                    "title": "Kansas-Nebraska Act",
+                    "description": "repealed the Missouri Compromise and created two new territories that allowed for popular sovereignty; produced a violent uprising known as 'Bleeding Kansas' where proslavery and antislavery activists flooded in to sway the vote",
+                    "type": "2"
+                },
+                {
+                    "date": "1854",
+                    "year": "1854",
+                    "title": "New England Emigrant Aid Society",
+                    "description": "helped people emigrate into Kansas and Nebraska territories",
+                    "type": "0"
+                },
+                {
+                    "date": "1854/1859",
+                    "year": "1854",
+                    "title": "Bleeding Kansas",
+                    "description": "Topeka government (Free Soil) against LeCompton government (slavery) in Kansas to determine slave status of state",
+                    "type": "2"
+                },
+                {
+                    "date": "1854",
+                    "year": "1854",
+                    "title": "Ostend Manifesto",
+                    "description": "America tried to use force to seize Cuba for national security; resulted from debates over slavery, where slaveholders wanted a new territory for expansion of slavery; northerners were outraged by Southerners",
+                    "type": "2"
+                },
+                {
+                    "date": "1854",
+                    "year": "1854",
+                    "title": "Walker expedition",
+                    "description": "Walker raises an army and takes over Nicaragua tp develop a proslavery empire; Pierce recognizes the new government, but Walker was killed by Honduran authorities",
+                    "type": "0"
+                },
+                {
+                    "date": "1856",
+                    "year": "1856",
+                    "title": "Lawrence Mob Violence",
+                    "description": "burned many abolitionist materials",
+                    "type": "0"
+                },
+                {
+                    "date": "1856",
+                    "year": "1856",
+                    "title": "Pottawatomie Massacre",
+                    "description": "John Brown kills four pro-slavery people; John Brown believed that violent action was necessary to combat slavery; ended up further polarizing public opinion about slavery",
+                    "type": "1"
+                },
+                {
+                    "date": "1856",
+                    "year": "1856",
+                    "title": "Buchanan elected",
+                    "description": "Buchanan defeats Fremont (Rep; Free Soil) and Fillmore (Know Nothings)",
+                    "type": "3"
+                },
+                {
+                    "date": "1857",
+                    "year": "1857",
+                    "title": "Dred Scott decision",
+                    "description": "slaves are property that can be taken anywhere; cannot be freed from staying into slave-free state; allowed for slavery in the North and provided Missouri Compromise to be unconstitutional",
+                    "type": "2"
+                },
+                {
+                    "date": "1857",
+                    "year": "1857",
+                    "title": "LeCompton Constitution",
+                    "description": "proposed constitution for the state of Kansas during territorial disputes over slavery; wanted to establish Kansas as a slave state but became symbol of failure regarding expansion of slavery",
+                    "type": "2"
+                },
+                {
+                    "date": "1857",
+                    "year": "1857",
+                    "title": "Panic of 1857",
+                    "description": "North was heavily invested in industries that caused the panic but the South were more reliant on shipping and foreign economy; emboldened South that slavery was good for economy and made a false sense of security that they would succeed as a country",
+                    "type": "2"
+                },
+                {
+                    "date": "1858",
+                    "year": "1858",
+                    "title": "Lincoln-Douglas Debates",
+                    "description": "a series of seven debates between Abraham Lincoln and Stephen A. Douglas mostly on the extension of slavery into new territories; Lincoln prompted moral issues of slavery, while Douglas promoted popular sovereignty; Douglas won reelection to senate but Lincoln gained national recognition",
+                    "type": "2"
+                },
+                {
+                    "date": "1858",
+                    "year": "1858",
+                    "title": "Freeport Doctrine",
+                    "description": "asserted that territories could effectively exclude slavery by not adopting laws to protect it",
+                    "type": "1"
+                },
+                {
+                    "date": "1858",
+                    "year": "1858",
+                    "title": "'a house divided against itself cannot stand",
+                    "description": "Lincoln emphasized that unity was essential and nation could not be permanently half slave and half free; after Lincoln's election, many Southerners believed their way of life was under threat",
+                    "type": "1"
+                },
+                {
+                    "date": "1859-10-16",
+                    "year": "1859",
+                    "title": "John Brown's Raid on Harpers Ferry",
+                    "description": "armed attack by John Brown to seize federal armory and spark a slave uprising; Brown was captured during the raid and tried for treason against Virginia, and was executed on December 2nd",
+                    "type": "1"
+                },
+                {
+                    "date": "1860",
+                    "year": "1860",
+                    "title": "Crittenden Compromise",
+                    "description": "unsuccessful proposal to make it unconstitutional for future congress to end slavery",
+                    "type": "1"
+                },
+                {
+                    "date": "1860",
+                    "year": "1860",
+                    "title": "Lincoln elected",
+                    "description": "Lincoln defeats Douglas (Dem), but not on a abolitionist stance",
+                    "type": "3"
+                },
+                {
+                    "date": "1860/1865",
+                    "year": "1860",
+                    "title": "Civil War",
+                    "description": "debates over slavery caused Southern succession and war between Union (North) and Confederates (South)",
+                    "type": "2"
+                },
+                {
+                    "date": "1861",
+                    "year": "1861",
+                    "title": "'necessity knows no law'",
+                    "description": "Lincoln increases army and navy, creates first income tax, creates greenbacks, removes freedom of press or speech",
+                    "type": "2"
+                },
+                {
+                    "date": "1861",
+                    "year": "1861",
+                    "title": "Confederacy established",
+                    "description": "Davis as president, weak government as many Southerners disliked strong government; no protective tariffs, no federal funded improvements, states could impeach federal officers, state supreme, protection of slavery, and 2/3 of house to appropriate money",
+                    "type": "2"
+                },
+                {
+                    "date": "1861",
+                    "year": "1861",
+                    "title": "Kansas admitted as a free state",
+                    "description": "anti-slavery forces in Kansas was more significant",
+                    "type": "1"
+                },
+                {
+                    "date": "1861",
+                    "year": "1861",
+                    "title": "<i>Ex Parte Marryman</i>",
+                    "description": "Lincoln suspends habeas corpus (allowed detention of individuals) and passes martial law in Maryland",
+                    "type": "1"
+                },
+                {
+                    "date": "1861",
+                    "year": "1861",
+                    "title": "Battle of Bull Run",
+                    "description": "South victory ends up extending the Civil War",
+                    "type": "1"
+                },
+                {
+                    "date": "1862",
+                    "year": "1862",
+                    "title": "Pacific Railroad Act",
+                    "description": "partially federally funded railroad and gave land for railroad; received little resistance as the South had seceded",
+                    "type": "1"
+                },
+                {
+                    "date": "1862",
+                    "year": "1862",
+                    "title": "Homestead Act",
+                    "description": "government land grants for agricultural college to promote agricultural growth",
+                    "type": "1"
+                },
+                {
+                    "date": "1863",
+                    "year": "1863",
+                    "title": "Battle of Antietam",
+                    "description": "aftermath led Lincoln to issue Emancipation Proclamation, changing focus of war to include slavery and dissuaded Britain and France from recognizing the Confederacy",
+                    "type": "1"
+                },
+                {
+                    "date": "1863",
+                    "year": "1863",
+                    "title": "Banking Acts",
+                    "description": "established federally chartered banks; was possible due to little resistance of the South that had seceded",
+                    "type": "1"
+                },
+                {
+                    "date": "1863",
+                    "year": "1863",
+                    "title": "Draft Riot in New York",
+                    "description": "over unfair burden of poor as rich could get out of drafts; significant violence, particularly of working-class Irish immigrants, fearing their jobs would be taken by freed African Americans if they were conscripted",
+                    "type": "1"
+                },
+                {
+                    "date": "1863-01-01",
+                    "year": "1863",
+                    "title": "Emancipation Proclamation",
+                    "description": "declared that all persons held as slaves in rebellious states to be free",
+                    "type": "2"
+                },
+                {
+                    "date": "1863",
+                    "year": "1863",
+                    "title": "Battle of Gettysburg",
+                    "description": "turning point to Union strength in war; largest number of casualties in th entire war, where Robert E. Lee of the Confederates made an ambitious quest to invade the north but was cut down",
+                    "type": "1"
+                },
+                {
+                    "date": "1863",
+                    "year": "1863",
+                    "title": "'10 Percent Plan'",
+                    "description": "Lincoln proposed a reconstruction program that would allow the Southern states to be readmitted once ten percent of its voters took an oath of allegiance to the Union; offered a lenient path for reestablishment and reconciliation",
+                    "type": ""
+                },
+                {
+                    "date": "1864",
+                    "year": "1864",
+                    "title": "Lincoln is reelected",
+                    "description": "defeats McClellan (Dem), a previous officer who had worked under Lincoln but was fired multiple times after failures",
+                    "type": "0"
+                },
+                {
+                    "date": "1864",
+                    "year": "1864",
+                    "title": "Wade-Davis Bill",
+                    "description": "divided South ito military units until majority pledges allegiance and bans slavery; with Wade-Davis Manifesto that suggested Congress controlled reconstruction",
+                    "type": "0"
+                },
+                {
+                    "date": "1864",
+                    "year": "1864",
+                    "title": "Sand Creek Massacre",
+                    "description": "Chivington attacks defenseless Indian village, many of whom wre women and children; highlights violet conflicts and culture tensions during westward expansion",
+                    "type": "0"
+                },
+                {
+                    "date": "1865-04-09",
+                    "year": "1865",
+                    "title": "Civil War ends",
+                    "description": "Civil War effectively ended as Confederate General Robert E. Lee surrendered to Union General Ulysses s. Grant at Appomattox Court House in Virginia; firmly demonstrated the strength of the U.S. government and restored legitimacy to handle sectional tensions",
+                    "type": "2"
+                },
+                {
+                    "date": "1865",
+                    "year": "1865",
+                    "title": "Freedmen's Bureau",
+                    "description": "federal agency to assist newly freed slaves in the South after the Civil War by providing food, housing, education, and medical care; Souther whites resisted its policies and undermined its authority with violence and intimidation",
+                    "type": "0"
+                },
+                {
+                    "date": "1865",
+                    "year": "1865",
+                    "title": "Andrew Johnson becomes president",
+                    "description": "Lincoln is assassinated at Ford's Theatre by John Wilkes Booth, becoming the first president to be assassinated in office; led many to blame South who were bitter of loss",
+                    "type": "3"
+                },
+                {
+                    "date": "1865",
+                    "year": "1865",
+                    "title": "Johnson's amnesty plan",
+                    "description": "pardons almost all Confederates who had directly or indirectly taken part in the rebellion and restored all rights of property except slaves",
+                    "type": "0"
+                },
+                {
+                    "date": "1865",
+                    "year": "1865",
+                    "title": "Thirteenth Amendment",
+                    "description": "formally abolishes slavery in its entirety, even in the North",
+                    "type": "2"
+                },
+                {
+                    "date": "1865",
+                    "year": "1865",
+                    "title": "",
+                    "description": "",
                     "type": ""
                 }
             ]
