@@ -90,7 +90,8 @@ p {
     padding: 0.8rem;
     background-color: rgba(60, 110, 113, 0.2);
     border-radius: 6px;
-    width: 80%;
+    width: 100%;
+    border: 5px solid grey;
 }
 
 .event {

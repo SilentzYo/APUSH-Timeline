@@ -1440,12 +1440,6 @@
                     "year": "1889-1893",
                     "description": "Played into foreign affairs and westward expansion",
                     "party": "Republican"
-                },
-                {
-                    "name": "Grover Cleveland",
-                    "year": "1893-1897",
-                    "description": "First non-consecutive president, dealt with more labor unions",
-                    "party": "Democrat"
                 }
             ],
             "events": [
@@ -1494,8 +1488,8 @@
                 {
                     "date": "1872",
                     "year": "1872",
-                    "title": "Credit Mobiler Scandal",
-                    "description": "stock holders of railroad construction copmany overcharge the government for a job",
+                    "title": "Credit Mobilier Scandal",
+                    "description": "stock holders of railroad construction company overcharge the government for a job",
                     "type": "0"
                 },
                 {
@@ -1530,7 +1524,7 @@
                     "date": "1875",
                     "year": "1875",
                     "title": "Civil Rights Act",
-                    "description": "gave blacks equal rights; amied to guarantee equal access to public accommodations; was not very successful as it was not enforced as much",
+                    "description": "gave blacks equal rights; aimed to guarantee equal access to public accommodations; was not very successful as it was not enforced as much",
                     "type": "1"
                 },
                 {
@@ -1768,16 +1762,10 @@
                     "date": "1890",
                     "year": "1890",
                     "title": "North American Women's Suffrage Association",
-                    "description": "fought for women suffrage; formed through merging two existing sufferage groups; helped secure the Ninteenth Amendment",
+                    "description": "fought for women suffrage; formed through merging two existing suffrage groups; helped secure the Nineteenth Amendment",
                     "type": "1"
                 },
-                {
-                    "date": "1890",
-                    "year": "1890",
-                    "title": "Sherman Antitrust Act",
-                    "description": "trust in restraint of trade are illegal; to prevent monopolies and promote competitions",
-                    "type": "2"
-                },
+                
                 {
                     "date": "1890s/1900s",
                     "year": "1890",
@@ -1790,7 +1778,7 @@
                     "year": "1890",
                     "title": "Wounded Knee Massacre",
                     "description": "ended Indian Wars, shot and killed nearly 300 Lakota people ",
-                    "type": ""
+                    "type": "1"
                 }
             ]
         },
@@ -1869,11 +1857,704 @@
             ],
             "events": [
                 {
-                    "date": "1776-07-05",
-                    "year": "1776",
-                    "title": "Declaration of Dependence",
-                    "description": "Articulated the principle of individual liberty and government's responsibility to serve the government's economy",
+                    "date": "1890",
+                    "year": "1890",
+                    "title": "Sherman Antitrust Act",
+                    "description": "trust in restraint of trade are illegal; to prevent monopolies and promote competitions",
                     "type": "2"
+                },
+                {
+                    "date": "1890",
+                    "year": "1890",
+                    "title": "Sherman Silver Purchase Act",
+                    "description": "government continued to buy silver but doesn't coin it to curb inflation",
+                    "type": "1"
+                },
+                {
+                    "date": "1890",
+                    "year": "1890",
+                    "title": "McKinley Tariff Act",
+                    "description": "raises tariffs on imported goods to protect American Industries from foreign competition",
+                    "type": "1"
+                },
+                {
+                    "date": "1892",
+                    "year": "1892",
+                    "title": "Homestead Strike",
+                    "description": "against Carnegie Steel, Pinkerton guards and troops put strike down; ended in loss for union and workers",
+                    "type": "1"
+                },
+                {
+                    "date": "1892",
+                    "year": "1892",
+                    "title": "Miner Strike in Idaho",
+                    "description": "miner strike against reduction of wages and increase of working hours",
+                    "type": "0"
+                },
+                {
+                    "date": "1892",
+                    "year": "1892",
+                    "title": "General Electric Company",
+                    "description": "major role in industrial revolution and electrical industry founded by Thomas Edison",
+                    "type": "0"
+                },
+                {
+                    "date": "1892/1896",
+                    "year": "1892",
+                    "title": "Populist Omaha Platform",
+                    "description": "aimed for eight hour work day, nationalization of railroad, inflation, coinage of silver, direct election of senators, anti-rich capitalists, and decrease in tariff",
+                    "type": "2"
+                },
+                {
+                    "date": "1892/1896",
+                    "year": "1892",
+                    "title": "Populists",
+                    "description": "Goodwyn: populists are democratic activists; Hicks: populists are rational people reacting to harsh laissez-faire; Hofstadter: anti-intellectuals fighting for a lost cause; Turner: West has major impact on American policies",
+                    "type": "4"
+                },
+                {
+                    "date": "1892",
+                    "year": "1892",
+                    "title": "Cleveland elected",
+                    "description": "Cleveland defeats Harrison (Dem) and Weaver (Populists)",
+                    "type": "3"
+                },
+                {
+                    "date": "1893",
+                    "year": "1893",
+                    "title": "Panic of 1893",
+                    "description": "economic depression that led to unemployment, bank failures, and failures in railroad industry",
+                    "type": "2"
+                },
+                {
+                    "date": "1893",
+                    "year": "1893",
+                    "title": "Sherman Silver Purchase Act repealed",
+                    "description": "aimed to stabilize the economy and restore confidence in the U.S. dollar; devalued gold",
+                    "type": "1"
+                },
+                {
+                    "date": "1894",
+                    "year": "1894",
+                    "title": "Pullman Strike",
+                    "description": "Pullman Company controls prices but fires workers; American Railway Union supported by boycotting Pullman cars, paralyzing rail traffic nationwide; led to federal government intervention and ultimate failure",
+                    "type": "2"
+                },
+                {
+                    "date": "1894",
+                    "year": "1894",
+                    "title": "Coxey's Army marches",
+                    "description": "goal for unemployment relief from government",
+                    "type": "1"
+                },
+                {
+                    "date": "1895",
+                    "year": "1895",
+                    "title": "<i>U.S. v. E.C. Knight Company</i>",
+                    "description": "ruled that Sherman Antitrust Act of 1890 could not regulate E.C. Knight Co's acquisition of American Sugar Company even though it created a virtual monopoly; meant Congress could not regulate manufacturing monopolies",
+                    "type": "1"
+                },
+                {
+                    "date": "1895",
+                    "year": "1895",
+                    "title": "<i>Pollack v. Farmers' Loan and Trust Co.</i>",
+                    "description": "determined that income tax was unconstitutional",
+                    "type": "1"
+                },
+                {
+                    "date": "1895",
+                    "year": "1895",
+                    "title": "<i>In re Debs</i>",
+                    "description": "case court regarding federal governments's authority to use injunctions to prevent obstructions to interstate commerce; in response to Pullman Strike of 1894",
+                    "type": "1"
+                },
+                {
+                    "date": "1895",
+                    "year": "1895",
+                    "title": "Booker T. Washington's Atlanta Compromise Speech",
+                    "description": "declared that both races must accept and help each other, and that blacks had to earn their rights",
+                    "type": "1"
+                },
+                {
+                    "date": "1896",
+                    "year": "1896",
+                    "title": "<i>Plessy v. Ferguson</i>",
+                    "description": "upheld 'separate but equal' doctrine that allowed states to segregate public facilities as long as the provided separate but equal facilities for all races; eventually overturned in 1954 <i>Brown v. Board</i>",
+                    "type": "2"
+                },
+                {
+                    "date": "1896",
+                    "year": "1896",
+                    "title": "McKinley elected",
+                    "description": "defeats Bryan (Dem)",
+                    "type": "3"
+                },
+                {
+                    "date": "1897",
+                    "year": "1897",
+                    "title": "Dingley Tariff",
+                    "description": "raised tax on duties, reflected Republican economic policy",
+                    "type": "1"
+                },
+                {
+                    "date": "1898",
+                    "year": "1898",
+                    "title": "Spanish American War",
+                    "description": "caused by election year and yellow journalism (exaggerated headlines) (Hearst and Pulitzer) on the sinking of USS Maine in Havana Harbor ('Remember the Maine')",
+                    "type": "2"
+                },
+                {
+                    "date": "1898",
+                    "year": "1898",
+                    "title": "<i>Williams v. Mississippi</i>",
+                    "description": "upheld Mississippi's state constitution which allowed poll taxes, literacy tests, and grandfather clauses, essentially allowing disenfranchisement of African Americans",
+                    "type": "1"
+                },
+                {
+                    "date": "1898",
+                    "year": "1898",
+                    "title": "Hawaii obtained",
+                    "description": "U.S. officially annexes Hawaiian Islands",
+                    "type": "0"
+                },
+                {
+                    "date": "1898",
+                    "year": "1898",
+                    "title": "Peace of Paris",
+                    "description": "gave Cuba Independence, while U.S. gets Puerto Rico, Philippines, and Guam; major step in imperialism America",
+                    "type": "1"
+                },
+                {
+                    "date": "1899",
+                    "year": "1899",
+                    "title": "Samoa divided",
+                    "description": "split between Germany and the United States, where western islands became German Samoa and eastern islands became American Samoa",
+                    "type": "1"
+                },
+                {
+                    "date": "1899",
+                    "year": "1899",
+                    "title": "Teller Amendment",
+                    "description": "gave Cuba freedom; declared that U.S. would not annex Cuba, but would leave its government to control the Cuban people after pacification",
+                    "type": "2"
+                },
+                {
+                    "date": "1899",
+                    "year": "1899",
+                    "title": "Open Door Notes",
+                    "description": "open trade with China, suggesting no European country with holdings in China to stop trade with U.S.",
+                    "type": "2"
+                },
+                {
+                    "date": "1900",
+                    "year": "1900",
+                    "title": "National Negro Business League",
+                    "description": "founded by Booker T. Washington to promote African American economic development; fostered Black-owned business and connected them to white business leaders; highlights intersection of race, business, and social reform",
+                    "type": "1"
+                },
+                {
+                    "date": "1900",
+                    "year": "1900",
+                    "title": "Gold Standard Act",
+                    "description": "gold as standard for nation's currency; effectively ended Silver Standard",
+                    "type": "1"
+                },
+                {
+                    "date": "1900s",
+                    "year": "1900",
+                    "title": "Progressive Era",
+                    "description": "against corruption and monopolies, contributed temperance (self-control), helped immigrants and labor, safer building codes, and public utilities; characterized by industrialization, urbanization, and economic inequality",
+                    "type": "4"
+                },
+                {
+                    "date": "1900",
+                    "year": "1900",
+                    "title": "Boxer Rebellion",
+                    "description": "Chinese nationalist rebel against growing Japanese and Western influence in China, especially in trade and politics; international intervention from U.S., Britain, Russia, France, Germany, Japan, etc. to suppress rebellion",
+                    "type": "2"
+                },
+                {
+                    "date": "1900",
+                    "year": "1900",
+                    "title": "Roosevelt elected",
+                    "description": "against Parker (Dem)",
+                    "type": "3"
+                },
+                {
+                    "date": "1900",
+                    "year": "1900",
+                    "title": "Square Deal",
+                    "description": "Theodore Roosevelt's domestic policy platform; Three C's: Conservation of Natural Resources, Corporate Law, and Consumer Protection",
+                    "type": "4"
+                },
+                {
+                    "date": "1901",
+                    "year": "1901",
+                    "title": "U.S. Steel Corporation formed",
+                    "description": "combined Andrew Carnegie's Carnegie Steel Company with Gary's Federal Steel Company and Moore's National Steel Company; represented industrial growth and development",
+                    "type": "0"
+                },
+                {
+                    "date": "1901",
+                    "year": "1901",
+                    "title": "Platt Amendment",
+                    "description": "gave U.S. military base in Cuba and permission for troops to intervene and consent to treaties",
+                    "type": "1"
+                },
+                {
+                    "date": "1901",
+                    "year": "1901",
+                    "title": "Insular Cases",
+                    "description": "Constitution does not follow the flag; U.S. could rule Puerto Rico and other territories without Constitution",
+                    "type": "2"
+                },
+                {
+                    "date": "1902",
+                    "year": "1902",
+                    "title": "Coal Strike",
+                    "description": "major labor union who struck for higher wages, shorter workdays, and recognition of union; U.S. intervened as a neutral arbitrator, marking turning point in relationship between government, business, and labor",
+                    "type": "1"
+                },
+                {
+                    "date": "1903",
+                    "year": "1903",
+                    "title": "Department of Commerce and Labor",
+                    "description": "oversaw commerce and labor",
+                    "type": "1"
+                },
+                {
+                    "date": "1903",
+                    "year": "1903",
+                    "title": "Hay-Herran Treaty",
+                    "description": "wanted to buy land in Panama canal but was rejected by Columbia",
+                    "type": "1"
+                },
+                {
+                    "date": "1903",
+                    "year": "1903",
+                    "title": "Hay-Buena Varilla Treaty",
+                    "description": "Columbians wanted Panama Canal as it would boost economy, so staged overthrow of government and sold more land to U.S. for Panama",
+                    "type": "2"
+                },
+                {
+                    "date": "1903",
+                    "year": "1903",
+                    "title": "Elkins Act",
+                    "description": "dealt with railroad rebates as part of Roosevelt's Square Deal",
+                    "type": "2"
+                },
+                {
+                    "date": "1904",
+                    "year": "1904",
+                    "title": "National Child Labor Committee",
+                    "description": "advocated for abolition of child labor; child labor played huge role as it was cheap and could be easily replaced, but caused a lot of harm to children",
+                    "type": "1"
+                },
+                {
+                    "date": "1904",
+                    "year": "1904",
+                    "title": "Roosevelt Corollary",
+                    "description": "addition to the Monroe Doctrine to make U.S. a police force, take over Dominican customs, and arbitrate Venezuela's dispute with Germany",
+                    "type": "2"
+                },
+                {
+                    "date": "1905",
+                    "year": "1905",
+                    "title": "Industrial Workers of the World",
+                    "description": "radical labor union for all workers under one union for better working conditions, fair wages, and overthrow of the capitalist system; activism often clashed with government efforts for patriotism during World War I",
+                    "type": "2"
+                },
+                {
+                    "date": "1906",
+                    "year": "1906",
+                    "title": "<i>The Jungle</i>",
+                    "description": "written by Upton Sinclair, exposed the meat packing industry, resulting in the Meat Inspection Act as part of the Square Deal",
+                    "type": "2"
+                },
+                {
+                    "date": "1906",
+                    "year": "1906",
+                    "title": "Gentlemen's Agreement",
+                    "description": "with Japanese that Japanese could return to schools if Japan limits immigration",
+                    "type": "1"
+                },
+                {
+                    "date": "1906",
+                    "year": "1906",
+                    "title": "Treaty of Portsmouth",
+                    "description": "negotiated by T. Roosevelt for Russo-Japanese War; received a Noble Peace Prize and further established U.S. as global intervention power",
+                    "type": "1"
+                },
+                {
+                    "date": "1906",
+                    "year": "1906",
+                    "title": "Hepburn Act",
+                    "description": "strengthened power of Interstate Commerce Commission",
+                    "type": "2"
+                },
+                {
+                    "date": "1906",
+                    "year": "1906",
+                    "title": "Pure Food and Drug Act",
+                    "description": "established Food and Drug Administration as a lot of processed food was not pure",
+                    "type": "1"
+                },
+                {
+                    "date": "1907",
+                    "year": "1907",
+                    "title": "Drago Doctrine",
+                    "description": "proposed by Argentine Foreign Minister that a country's failure to repay a national debt does not justify foreign intervention; suggested that Foreign, especially European powers should invest in Latin America at their own risk",
+                    "type": "0"
+                },
+                {
+                    "date": "1907",
+                    "year": "1907",
+                    "title": "Bank Panic",
+                    "description": "banks invested in stock exchange but stock exchange fell significantly and caused recession; many people had money either in stock or in banks that put their money in the stocks",
+                    "type": "2"
+                },
+                {
+                    "date": "1908",
+                    "year": "1908",
+                    "title": "<i>Muller v. Oregon</i>",
+                    "description": "limited women work hours and dedicated that limiting the number of work hours for women did not violate the right to contract in the Fourteenth Amendment",
+                    "type": "2"
+                },
+                {
+                    "date": "1908",
+                    "year": "1908",
+                    "title": "Root-Takahira Agreement",
+                    "description": "Japan would honor Open Door Notes; furthered U.S. foreign power",
+                    "type": "1"
+                },
+                {
+                    "date": "1908",
+                    "year": "1908",
+                    "title": "Taft elected",
+                    "description": "defeats Bryan (Dem)",
+                    "type": "3"
+                },
+                {
+                    "date": "1909",
+                    "year": "1909",
+                    "title": "National Association for the Advancement of Colored People (NAACP)",
+                    "description": "to combat discrimination of African Americans; included W.E.B. Du Bois and Mary White Ovington (women hoped suffrage and rights would eventually befall them)",
+                    "type": "2"
+                },
+                {
+                    "date": "1909",
+                    "year": "1909",
+                    "title": "Payne-Aldrich Tariff",
+                    "description": "lowered tariff; caused clash between progressive Republicans (for protective tariffs) who believed the acts betrayed Republican principles",
+                    "type": "2"
+                },
+                {
+                    "date": "1909",
+                    "year": "1909",
+                    "title": "Ballinger-Pinchot Controversy",
+                    "description": "Ballinger, Secretary of Interior dismissed; charged with not following nation's conservative policy, despite many conservatives still liking him; seen as betrayal of Roosevelt's conservation efforts, further splitting the Republican party",
+                    "type": "2"
+                },
+                {
+                    "date": "1911",
+                    "year": "1911",
+                    "title": "<i>Standard Oil Company v. U.S.</i>",
+                    "description": "ruled that the Standard Oil Co. violated the Sherman Antitrust Act and broke up monopoly; set precedent for future antitrust cases",
+                    "type": "2"
+                },
+                {
+                    "date": "1912",
+                    "year": "1912",
+                    "title": "Wilson elected",
+                    "description": "Wilson beats T. Roosevelt (Progressive), Taft (Republican), and Debs (Socialist); Taft acts in Ballinger-Pinchot Controversy and Payne-Aldrich Tariff caused rift in Republicans that caused split of votes",
+                    "type": "3"
+                },
+                {
+                    "date": "1912",
+                    "year": "1912",
+                    "title": "moral diplomacy",
+                    "description": "foreign policy of Wilson that prioritized moral and ethical considerations in international relations, supporting countries with democratic governments while harming those with non-democratic regimes that were a threat to American ideals",
+                    "type": "4"
+                },
+                {
+                    "date": "1913",
+                    "year": "1913",
+                    "title": "Sixteenth Amendment",
+                    "description": "authorized federal income tax, addressing economic inequality and providing the government with funds to social reforms",
+                    "type": "2"
+                },
+                {
+                    "date": "1913",
+                    "year": "1913",
+                    "title": "Seventeenth Amendment",
+                    "description": "direct popular election of Senate; gave more power to people and expanded voter participation; helped reduce influence of political machines and increased accountability of senators",
+                    "type": "2"
+                },
+                {
+                    "date": "1913",
+                    "year": "1913",
+                    "title": "Federal Reserve Act",
+                    "description": "created a federal reserve system as the central bank of the U.S. to combat economic instability",
+                    "type": "1"
+                },
+                {
+                    "date": "1914-07-28",
+                    "year": "1914",
+                    "title": "Start of World War I",
+                    "description": "Austria-Hungary declares war on Serbia",
+                    "type": "2"
+                },
+                {
+                    "date": "1914",
+                    "year": "1914",
+                    "title": "Federal Trade Commission",
+                    "description": "independent federal agency tasked with protecting consumers and promoting competing",
+                    "type": "1"
+                },
+                {
+                    "date": "1914",
+                    "year": "1914",
+                    "title": "Clayton Antitrust Act",
+                    "description": "amendment to Sherman Anti-Trust Act; strengthened anti-monopolistic reform by targeting specific business practices that could lead to monopolies",
+                    "type": "2"
+                },
+                {
+                    "date": "1914",
+                    "year": "1914",
+                    "title": "U.S. invades Veracruz in Mexico",
+                    "description": "U.S. invades port of Veracruz in Mexico, Mexican forces detained nine American sailors; consequence of Wilson's moral diplomacy",
+                    "type": "0"
+                },
+                {
+                    "date": "1915",
+                    "year": "1915",
+                    "title": "USS Lusitania sunk",
+                    "description": "German U-boat sinks the USS Lusitania, killing over 1000 people and many Americans; swayed public opinion against Germany and brought Americans into World War I",
+                    "type": "2"
+                },
+                {
+                    "date": "1916",
+                    "year": "1916",
+                    "title": "Adamson Act",
+                    "description": "allowed government to take over railroad; regulated the hours of workers in private companies, establishing eight-hour workday with overtime pay to railroad employees who worked on interstate commerce",
+                    "type": "1"
+                },
+                {
+                    "date": "1916",
+                    "year": "1916",
+                    "title": "War Industries Board",
+                    "description": "coordinated production and mobilization",
+                    "type": "1"
+                },
+                {
+                    "date": "1916",
+                    "year": "1916",
+                    "title": "Food Administration",
+                    "description": "headed by Hoover to ensure sufficient food supplies for both the American military and Allied forces; Leiver Act set prices for agricultural products",
+                    "type": "1"
+                },
+                {
+                    "date": "1916",
+                    "year": "1916",
+                    "title": "Fuel Administration",
+                    "description": "headed by Garfield to control fuel prices over concerns of fuel shortages for military and civilian needs",
+                    "type": "1"
+                },
+                {
+                    "date": "1917",
+                    "year": "1917",
+                    "title": "Zimmerman Note",
+                    "description": "message from German Foreign Secretary Zimmerman to German ambassador in Mexico; military alliance between Germany and Mexico if the U.S. entered World War I, where Germany would help Mexico regain lost land",
+                    "type": "2"
+                },
+                {
+                    "date": "1917-04-06",
+                    "year": "1917",
+                    "title": "U.S. enters World War I",
+                    "description": "Germany resumed submarine warfare and sent Zimmerman Note, effectively making U.S. an enemy",
+                    "type": "2"
+                },
+                {
+                    "date": "1917",
+                    "year": "1917",
+                    "title": "For/Against War",
+                    "description": "For: submarine warfare, destroying trade, violating rights, espionage and sabotage, Zimmerman Note, balance of power, save democracy; Against: only benefit wealthy, British violated our rights, Germany tried to avoid Lusitania, propaganda",
+                    "type": "4"
+                },
+                {
+                    "date": "1917/1920",
+                    "year": "1917",
+                    "title": "First Red Scare",
+                    "description": "fear and paranoia regarding growth of communist or socialist ideologies, leading to mass arrests, deportations, and restricts of civil rights",
+                    "type": "4"
+                },
+                {
+                    "date": "Early 19th Century",
+                    "year": "1917",
+                    "title": "Great Migration",
+                    "description": "blacks move from South to North in search of economic opportunity and to escape black discrimination in the South",
+                    "type": "4"
+                },
+                {
+                    "date": "1920s and 1930s",
+                    "year": "1917",
+                    "title": "Harlem Renaissance",
+                    "description": "cultural movement in Harlem, NYC, where African Americans celebrated identity and created new sense of pride through art, literature, and music (jazz); facilitated by Great Migration",
+                    "type": "4"
+                },
+                {
+                    "date": "1917",
+                    "year": "1917",
+                    "title": "Creel Committee",
+                    "description": "to promote support for World War I by influencing public opinion; formed Liberty Leagues",
+                    "type": "2"
+                },
+                {
+                    "date": "1918",
+                    "year": "1918",
+                    "title": "National War Labor Board",
+                    "description": "addressed labor disputes that could hinder war effort, effectively preventing strikes",
+                    "type": "2"
+                },
+                {
+                    "date": "1917/1918",
+                    "year": "1918",
+                    "title": "Espionage and Sedition Acts",
+                    "description": "criminalized actions against war effort, government, flag, or military",
+                    "type": "2"
+                },
+                {
+                    "date": "1918-11-11",
+                    "year": "1918",
+                    "title": "Armistice Day",
+                    "description": "effective end of World War I on the Western Front; signed between Germany and Allies",
+                    "type": "2"
+                },
+                {
+                    "date": "1919-06-28",
+                    "year": "1919",
+                    "title": "Treaty of Versailles",
+                    "description": "officially ended World War I between Germany and the Allied Powers and required Germany to repay war debts",
+                    "type": "2"
+                },
+                {
+                    "date": "1918",
+                    "year": "1918",
+                    "title": "Wilson's Fourteen Points",
+                    "description": "vision for post-World War I peace; open covenants, disarmament, formation of Poland, freedom of seas and trade, rebuilding of Belgium, League of Nations (opposed by isolationist Republicans, etc.",
+                    "type": "2"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "Palmer Raids",
+                    "description": "suspending and deporting anarchists and communists as part of response to Red Scare",
+                    "type": "2"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "<i>Shenck v. U.S.</i>",
+                    "description": "'clear and present danger'; open opposition to war will undermine war effort",
+                    "type": "2"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "<i>Abrahams v. U.S.</i>",
+                    "description": "upheld Sedition Act",
+                    "type": "1"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "American Protective League",
+                    "description": "pro-war activists who were prosecuted and censored",
+                    "type": "1"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "Senate rejects Treaty of Versailles and League of Nations",
+                    "description": "Irreconcilables: believed it would infringe on American sovereignty, disagreement with Article X; Reservationists: accepted treaty if Article X would be clarified; only Congress can commit troops",
+                    "type": "2"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "Eighteenth Amendment",
+                    "description": "prohibited alcoholic beverages; people bootlegged or went to speakeasies (hidden bar that secretly sold alcoholic beverages",
+                    "type": "2"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "Race riots in Chicago/'Red Summer'",
+                    "description": "triggered by murder of Black teenager; increased racial tensions ",
+                    "type": "1"
+                },
+                {
+                    "date": "1919",
+                    "year": "1919",
+                    "title": "Volstead Act",
+                    "description": "enforced Eighteenth Amendment by prohibiting production, sale, and transportation of alcohol",
+                    "type": "1"
+                },
+                {
+                    "date": "1920",
+                    "year": "1920",
+                    "title": "Nineteenth Amendment",
+                    "description": "women suffrage; huge success for women",
+                    "type": "2"
+                },
+                {
+                    "date": "1920",
+                    "year": "1920",
+                    "title": "<i>Main Street</i>",
+                    "description": "written by Sinclair Lewis, shows dissatisfaction of progressive women",
+                    "type": "1"
+                },
+                {
+                    "date": "1920",
+                    "year": "1920",
+                    "title": "First Commercial radio broadcast",
+                    "description": "brought in an era of connection with the country",
+                    "type": "1"
+                },
+                {
+                    "date": "1920",
+                    "year": "1920",
+                    "title": "Harding elected",
+                    "description": "beats Cox (Dem)",
+                    "type": "3"
+                },
+                {
+                    "date": "1920s",
+                    "year": "1920",
+                    "title": "Roaring Twenties",
+                    "description": "economic prosperity with consumerism, explosion of art and entertainment, nativism and science vs. religion, and civil rights",
+                    "type": "4"
+                },
+                {
+                    "date": "1921",
+                    "year": "1921",
+                    "title": "American Birth Control League",
+                    "description": "women productive rights",
+                    "type": "0"
+                },
+                {
+                    "date": "1921",
+                    "year": "1921",
+                    "title": "Revenue Act",
+                    "description": "decreased taxes",
+                    "type": "1"
+                },
+                {
+                    "date": "1921",
+                    "year": "1921",
+                    "title": "",
+                    "description": "",
+                    "type": ""
                 }
             ]
         },
