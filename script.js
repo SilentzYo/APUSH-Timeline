@@ -45,7 +45,7 @@ async function loadTimeline() {
                     eventListDiv.appendChild(eventDiv);
                 });
 
-                remainingEvents = remainingEvents.slice(presidentChangeIndex !== -1 ? presidentChangeIndex + 1 : 0);
+                remainingEvents = presidentChangeIndex !== -1 ? remainingEvents.slice(presidentChangeIndex + 1) : [];
             });
 
             unitDiv.appendChild(eventListDiv);
