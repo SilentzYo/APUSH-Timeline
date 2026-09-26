@@ -4,137 +4,179 @@
     box-sizing: border-box;
 }
 
-img{
-    width: 100%;
-    border-radius: 5px;
-    @media screen and (max-width: 599px){
-      height: 250px;
-      object-fit: cover;
-    }
+:root {
+    --bg: #313131;
+    --card-bg: rgba(40, 75, 99, 0.3);
+    --text: white;
+    --text-muted: #c8c8c8;
+    --accent: #ed666f;
+    --teal: #3c6e71;
+    --green: #1a6817;
+    --divider: #4a4a4a;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
-    font-family: "Playfair Display", sans-serif;
-    background-color: #313131;
-    padding: 2rem;
-    margin: auto;
+    font-family: "Playfair Display", serif;
+    background-color: var(--bg);
+    color: var(--text-muted);
+    line-height: 1.5;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem clamp(1rem, 3vw, 2rem);
+}
+
+a {
+    color: inherit;
 }
 
 .title {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: white;
+    font-size: clamp(1.8rem, 5vw, 2.5rem);
+    color: var(--text);
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
-h1 {
-    color: #ed666f;
-    font-size: 3rem;
-    font-weight: bold;
-}
-
-h2 {
-    color: white;
-    font-size: 1.5rem;
-}
-
-h3 {
-    color: white;
-    font-size: 1.2rem;
-    font-weight: bold;
-}
-
-p {
-    color: #c8c8c8;
-}
-
-.hyperlinks {
+/* PERIOD NAV */
+.period-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
     display: flex;
-    gap: 10px;
+    gap: 0.5rem;
+    padding: 0.75rem 0;
+    background-color: var(--bg);
+    overflow-x: auto;
 }
 
-.hyperlinks > a {
-    flex: 1;
-    background-color: grey;
+.period-nav a {
+    flex: 1 0 auto;
+    padding: 0.4rem 0.8rem;
     border-radius: 5px;
+    background-color: var(--divider);
+    color: var(--text);
     text-align: center;
-    padding: 4px;
-    color: white;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background-color 0.15s;
 }
 
-.timeline-container {
-    position: relative;
-    padding: 2rem 0;
+.period-nav a:hover {
+    background-color: var(--accent);
 }
 
-.timeline {
-    position: relative;
-}
-
+/* PERIODS */
 .unit {
     padding: 2rem 0;
-    position: relative;
+    scroll-margin-top: 3.5rem;
+}
+
+.unit + .unit {
+    border-top: 1px solid var(--divider);
+}
+
+.unit h2 {
+    color: var(--accent);
+    font-size: clamp(2rem, 6vw, 3rem);
+    line-height: 1.2;
+}
+
+.unit-summary {
+    margin-bottom: 1.5rem;
 }
 
 .event-list {
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
-    gap: 1.3rem;
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+    gap: 1rem;
 }
 
+/* PRESIDENTS */
 .president {
-    margin-top: 1rem;
-    padding: 0.8rem;
+    grid-column: 1 / -1;
+    padding: 0.8rem 1rem;
     background-color: rgba(60, 110, 113, 0.2);
+    border-left: 5px solid grey;
     border-radius: 6px;
-    width: 100%;
-    border: 5px solid grey;
 }
 
-.event {
-    align-self: baseline;
-    flex-direction: column;
-    padding: 1.2rem;
-    background-color: rgba(40, 75, 99, 0.3);
-    border-radius: 8px;
-    margin-top: 1rem;
-    width: 30%;
+.president:not(:first-child) {
+    margin-top: 1.5rem;
 }
+
+.president h3 {
+    color: var(--text);
+    font-size: 1.5rem;
+}
+
+.president-term {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    font-weight: normal;
+}
+
+.president-party {
+    color: var(--text);
+    font-style: italic;
+}
+
+/* EVENTS */
+.event {
+    padding: 1rem 1.2rem;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+}
+
+.event h4 {
+    color: var(--text);
+    font-size: 1.15rem;
+    line-height: 1.3;
+}
+
+.event-date {
+    margin: 0.2rem 0 0.5rem;
+    color: var(--accent);
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+}
+
+.event-description {
+    font-size: 0.95rem;
+}
+
+/* MAJOR EVENTS */
+[data-type="2"],
 [data-type="4"] {
-    border: 3px solid #ed666f;
+    border: 3px solid var(--accent);
 }
 /* PRESIDENT CHANGE */
 [data-type="3"] {
-    border: 3px solid #1a6817;
-}
-/* MAJOR EVENTS */
-[data-type="2"] {
-    border: 3px solid #ed666f;
-    width: 30%;
+    border: 3px solid var(--green);
 }
 /* MINOR EVENTS */
 [data-type="1"] {
-    border: 2px solid #3c6e71;
+    border: 2px solid var(--teal);
 }
 /* SIDE EVENTS */
 [data-type="0"] {
     border: 1px solid rgba(200, 200, 200, 0.3);
 }
 
-.footer{
-    margin-top: 1rem;
+.status {
+    padding: 3rem 0;
     text-align: center;
-    font-family: 'Karla', sans-serif;
-    font-size: 0.7rem;
-    background: white;
-    padding: 0.5rem;
-    color: black;
-    border-radius: 5px;
-    a {
-      color: inherit;
-      font-weight: 600;
-    }
+}
+
+.footer {
+    padding: 1.5rem 0 0.5rem;
+    border-top: 1px solid var(--divider);
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.footer a {
+    font-weight: 600;
 }
